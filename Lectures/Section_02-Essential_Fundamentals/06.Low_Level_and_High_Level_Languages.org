@@ -1,0 +1,65 @@
+# -*- mode:org; fill-column:79; -*-
+
+* Low Level and High Level Languages
+  :PROPERTIES:
+  :Section-Name: Essential Fundamentals
+  :Section:  2
+  :Length:   4:13
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_02-Essential_Fundamentals/06.Low_Level_and_High_Level_Languages.mp4,Lecture 06.Low-Level and High-Level Languages}
+@end ifhtml
+#+end_export
+
+So in the previous media I have already explained you that we talk or we
+understand natural language human beings and machines have their machine
+language and that language is in binary that is zeros and ones.  Right.  So it
+is in the form of zero.  Then once we say this isn't binary language binary
+language we can call it does machine language machine language.  So that guess
+Tom does low level language low level language machine language just low level
+low level elements actual machines language we can't understand it.  So when
+the machines were introduced initially it was very difficult for people to
+write the program so it was not common.  Machines were used in laboratories.
+It was not used by masses or it was not available at consumer level.  So at
+that time so the people who develop they used to learn something from this
+machine code and they used for everything in machine code form that was very
+tough and it was very initial stage and then later they thought like there
+should be some attempt to make it easy so they introduce some language called
+assembly language assembly language.  So this assembly language was a little
+easier than binary right.  So this is nobody can think of working on it except
+the one who has to manufacture the machine not assembly language it was little
+easy.  It can be dark and it can be long and it can be practiced and used for
+writing the program.  So this was a use for some time right.  And this became a
+base for conversion from this language to machine language.  So still that is
+also low level language it's very difficult for learning if supporter class or
+friend a student and if somebody is teaching assembly language then there's the
+chances of learning one student learning it like.  So the learning curve is
+very high and it's very difficult.  Like other parts of academic students learn
+it for some time and they finish the exam and forget it.  So anyway we don't
+have to use it if at all you want to work in systems programming that you want
+the right operating system level programs and on then you need to learn about
+it right.  So I'll give you data on that one where does some of the language is
+useful if if at all you needed that there's also low level so under low level.
+We have two languages and a low level that is machine language and assembly
+language machine language and assembly language.  In short I'm writing that as
+this was also difficult.  We wanted some English late language so English like
+languages are high level languages they are not exactly like English and they
+are not more like machine code right.  So they are in-between.  So that is easy
+for easy enough for anybody to learn so that are high level languages.  So
+there are a number of high level languages lots of high level linguists out
+there like present day we are using language just like a name them.  So these
+are easy to learn right high level languages C C++ Java Python C sharp visual
+basic Visual C++ and the list goes on.  There are various languages.  Right.
+So these languages we call them hours of programming languages because we can
+program and we humans can program them.  Actually this assembly language is
+also programming language that is low level programming language and these are
+high level language.  So we are most familiar with this language.  So these are
+really easy to learn.  No doubt for a beginner it is tough in the beginning but
+when you are used to learn when you learn any one of the languages sufficient
+you can learn all of the languages you should learn one language thoroughly
+then you can understand all other languages they are on the same patterns now.
+And one more thing about this these languages we can categorise them as
+compiler based languages and some are interpreter based languages and some are
+hybrid languages.  What are these.  We will understand next video.

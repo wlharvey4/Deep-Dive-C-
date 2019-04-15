@@ -1,0 +1,150 @@
+# -*- mode:org; fill-column:79; -*-
+
+#+TITLE:Learn C++ Programming Beginner to Advanced---Deep Dive in C++
+#+DATE:<2019-04-15 Mon 15:13>
+
+* Section---Introduction
+:PROPERTIES:
+:Section:  1
+:Section-Name: Introduction
+:Length:   3 minutes
+:END:
+#+include: ./Lectures/Section_01-Introduction/01.Instructor's_Note.org
+
+* Section---Essential Fundamentals
+:PROPERTIES:
+:Section:  2
+:Section-Name: Essential Fundamentals
+:Length:   1 hour 4 minutes
+:Lectures: 7
+:END:
+
+#+include: ./Lectures/Section_02-Essential_Fundamentals/02.Fundamentals.org
+#+include: ./Lectures/Section_02-Essential_Fundamentals/03.How_Computers_Work.org
+#+include: ./Lectures/Section_02-Essential_Fundamentals/04.Introduction_to_Number_Systems.org
+#+include: ./Lectures/Section_02-Essential_Fundamentals/05.What_is_a_Program.org
+#+include: ./Lectures/Section_02-Essential_Fundamentals/06.Low_Level_and_High_Level_Languages.org
+#+include: ./Lectures/Section_02-Essential_Fundamentals/07.Compiler_vs_Interpreter.org
+#+include: ./Lectures/Section_02-Essential_Fundamentals/08.What_is_an_Operating_System.org
+
+* Section---Program Development
+:PROPERTIES:
+:Section-Name: Program Development
+:Section:  3
+:Length:   44 minutes
+:Lectures: 4
+:END:
+
+** Programming Paradigms and Methodologies
+#+include: ./Lectures/Section_03-Program_Development/09.Programming_Paradigms_and_Methodologies.org
+
+** What is an Algorithm
+
+** What is a Flow Chart
+
+** Steps for Program Development and Execution
+
+* The Course
+:PROPERTIES:
+:appendix: t
+:END:
+
+** About this course
+Classroom and Hands-on sessions- Features of C++ 11 , Exception
+Handling and STL - for Both Academics and Industry
+
+- Lectures: 258
+- Videos: 27.5 hours
+
+*** Description
+This course covers C++ from very basic to more advanced features.
+Concepts of C++ programming are made very simple and easy.  Every
+topic is covered in greater detail.  All Lecture are discussed both on
+white board like a classroom session and practical demo.  Programs and
+Bullet points are provided as resource.  Every Topic is Explained with
+Real life Examples.  This course also covers features of modern
+C++ 11.  Student Project at the end of Course.  You will be learning
+concepts perfectly and also learn how to perfectly utilise features of
+C++. you will be confident to develop any type of Application using
+C++.
+
+*** Course Highlights
+- Every Topic is covered on White Board
+- Pratical Session for each Topic
+- Section wise Quiz
+- Section wise Workbook Programs
+- Student Project
+
+*** What you will learn
+- Learn Basic concepts of Programming C++, OOPs,Exception Handling, STL, Features of C++ 11
+- Learn Object-Oriented Programming Design Concept in C++ Perfectly with Examples
+- Learn How to Develop an Application (Student Project in C++ )
+- Basics - Datatypes and Variables
+- Operators and Expressions
+- Conditional Statements
+- Loops
+- Pointers
+- Functions
+- Function Overloading
+- Oops Concepts
+- Classes and Objects
+- Constructors
+- Destructors
+- Operator Overloading
+- Inheritance
+- Polymorphism
+- Abstract Classes
+- Function Overriding
+- Friend Members
+- Static Members
+- Inner Classes
+- Templates
+- Exception Handling
+- I/O Streams
+- STL
+- Lambda Expressions
+- Features on Modern C++ 11
+- Student Project
+
+** About the Instructor
+Abdul Bari, Professional Programmer and Educator
+
+Having over 20 years of experience in the computer science and
+information technology fields. Taught many courses at the University
+level to thousands of students.
+
+Have been training students and employees on various programming
+languages like, C++ , VC++ , JAVA technologies and Web Development.
+
+Have Delivered Seminars on various topics like Distributed System,
+Cloud Computing and Big Data
+
+Have been into web development using technologies like, Java, ASP.NET
+and PHP.
+
+Running a Youtube Channel on “Algorithms” , which has help many
+university students in their academics.
+
+* Main Index
+:PROPERTIES:
+:index:    cp
+:END:
+
+* Program Index
+:PROPERTIES:
+:index:    pg
+:END:
+
+* Export Setup                                                     :noexport:
+#+author:Abdul Bari
+#+options:H:4
+#+texinfo_filename:Deep_Dive_C++.info
+#+texinfo_printed_title:Learn C++ Programming Beginner to Advanced
+#+subtitle:Deep Dive in C++
+#+texinfo_class: info
+#+texinfo_header:
+#+texinfo_post_header:
+#+subauthor:
+#+texinfo_dir_category:Programming
+#+texinfo_dir_title:Deep Dive in C++
+#+texinfo_dir_desc:Learn C++ Beginner to Advanced

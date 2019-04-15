@@ -1,0 +1,217 @@
+# -*- mode:org; fill-column:79; -*-
+
+* Compiler vs. Interpreter
+  :PROPERTIES:
+  :Length:   17:06
+  :Section:  2
+  :Section-Name: Essential Fundamentals
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_02-Essential_Fundamentals/07.Compiler_vs_Interpreter.mp4,Lecture 07.Compiler vs Interpreter}
+@end ifhtml
+#+end_export
+
+In the previous video we have discussed about low level languages and the high
+level languages.  No we already know that high level languages are more like
+English that are easy for humans to understand.  So in the last video I have
+explained that there are many programming languages that are high level
+languages and some languages are compiler based and some are interpreting based
+and somewhat hybrid also.  So what does it mean by compiler based.  What does
+it mean by interpreter based.  We will understand just in this video.  So the
+topic is compiler interpreter.  Then also I will discuss a word.  Hybrid
+languages.  So far understanding this.  We should know what is the job of
+compiler and interpreter.  What are the major task.  See the task of discovered
+by literary interpreter.  Whatever it may be.  First thing is it will check for
+errors check errors.  Right.  So this is the first team.  Then the second thing
+is convert into machine could convert into machine.  Good.  So I will vote
+M.S. as machine quarter machine code language see high level language and guess
+commodity low level language that is machine code which is understandable by
+machine so compiler and interpreter they do this job often much like other to
+here in Moore as execution execution of a program that is running the program.
+I think the program means you know that like I already told you that the
+programs are brought into the main memory and they are executed by the CPA.  So
+the machine instruction will come inside the main memory and CPA will execute
+it that is execution running of a program now for these three things let us
+understand this.  See when we write any program like this the program so I will
+call this program as a source scored when you write it in source code then that
+source code may be having errors.  So while you will have errors so you may be
+misstating something or you might have forgot some statements or you have not
+written the statements properly.  There could be some error so those errors are
+called out syntax errors.  So rather does compiler interpreter.  It has to
+first check that the code at source code you have written is not having any
+errors and is the first thing and if there are no Edwards then it will convert
+it into a machine.  So majorly there are two task of compiler or interpreter to
+board do this t check for that.  If the source code is error free then generate
+machine gun toting execution of a program.  If I talk about execution compiler
+doesn't take the responsibility of execution but interpreter takes the
+responsibility for execution.  Compiler if not involve in execution of a
+program interpreter.  So this thing's all we will learn in detail right.  So
+step by step we learn everything about these differences between combat that an
+interpreter.  So just keep in mind these are the three major issues that are
+related to compiler and interpreter.  Now let us compare them one by one for
+comparison.  Already I have taken some program code here.  This is the source
+code written in C++ and is the source code written in Javascript.  So I've
+taken these two examples.  C++ is a compiler based language it just having a
+compiler is not having interpreter javascript which is useful for writing that
+pages.  It will be a part of that page and it runs inside the browser.  Most of
+the websites if you visit from your browser if you check the code you'll find
+achievement in javascript with them.  So it's a common name everybody knows
+about it.  So this is used in programming.  This is interpreted based.  So this
+is the source code I have written.  This is not the machine code so this can be
+understood by a compiler and human means.  This can be understood by
+interpreter and human being so I have taken an example of compiler based
+language an interpreter with language now let us understand the differences.
+See if I have this program I wanted to combine means translate into machine
+code that if I give it to a compiler compiler it will convert discord into
+machine code and as you can see that I have done this program into two pieces
+two pieces are there.  So like this is the function of the main function.  Not
+only we don't know anything about functions right now but I have just redone
+the program in two pieces.  So when the machine code is generated it will
+generate two different pieces that is machine code for our function.  And the
+machine good for Main function.  So only the 10 that you have to understand
+here is that if you bring the program in pieces then the pieces will be
+generated in machine codes.  That is important.  Now this is the machine code
+generated.  See this is the file for the DA CPB.  So after a compilation we get
+some file some intermediate files also and finally we get the executable file
+and we get first adored e x e fine executable file.  So here on the hardest I
+have shown here.  Dot CPB and if you call a compiler compiler it will run into
+memory and it will take this program fine and understand and check that there
+are no errors fasting if there are no errors that it will generate a machine
+caught fire.  That is first dot e XY and it will serve it on the hard disk like
+so you will get a separate file called for the DOT XY This is for story XY
+compiler generates machine code and that's what if there are no errors it
+hasn't generated the machine good job of compiling what what.  No next step I
+want to run.  They said there are three things like checking for errors
+converting nobody's gonna work no execution if you want to run the program no
+you can't run this program for study XY fight you can't run and you can run
+into as many times as you want you don't need to come by no compiler has
+translated once that's enough over now you run your program in number of times
+whenever you are running your program the sixty five views so scared it off no
+use now and in fact all you are making any changes in this one then you can
+recombine to get a read generated first RDX fight and that will be a new
+program or a fresh or updated program.  So it means compilation or translation
+off so score to machine quarters are done only once.  That's the first point
+and compiler generates a separate executable file.  Does the second point then
+the third point as valid what do you want to run the program you don't need a
+compiler translation is done only once because that's the reason you don't need
+any compiler when running the program and one more important thing of the
+compiler is back see that I feel like one two three four five six seven eight
+some ten fifteen ninth I didn't sit in these lines if there is any error at
+some place suppose if I start from here one two three four five four lines are
+perfect and the fifth line is having any error do your program not get complex
+your program and not get compile if there is any error door it is in fifth line
+first full lines are correct like but it has to generate a complete machine
+code it cannot come working through machine code.  So these are the points
+about compiler.  Let me repeat quickly compiler will generate a machine code
+file separate file and isolation of a program incidentally one's compiled of a
+lot of data on the program is running right mostly students believe that
+compiler will be dead at the time of execution compiler will not be dead and
+last point is that if there is any error in some line then the program will not
+get compiler now coming through interpreter so for explaining about interpreter
+I'll just remove this and I haven't changed these fights now let us look at the
+interpreter so for interpreter I have some javascript code don't try to read
+and understand the core just some lines are there OK.  These are done in
+JavaScript now how interpreter works.  Let us see.  See this is suppose a fine
+colored mind or JavaScript that is my God Jess and I find this present here
+then I also have a program called Chrome that is a browser a commonly used
+browser.  So I'm using a name chrome here.  So this chrome RDX is a browser
+javascript runs inside browser.  It cannot run independently.  Now how does
+javascript looks how chrome works as an interpreter for JavaScript.  Let's see.
+See first of all for I mean this one for execution of this once.  I'm not
+seeing translation or anything directly I'm seeing execution torch step.
+Remember this.  I have to run chrome and inside Chrome I can run that challenge
+skips I can open that file in chrome.  Usually we don't open the file from
+local machine we get the pages from internet but here if you open chrome then
+you can open that JavaScript file.  If you don't want inside chrome then Chrome
+will be executing this like whatever it is.  Just limit what it is doing so
+discord can be executed by chrome.  So how so Chromebook as a interpreter for
+JavaScript.  So now you can see how it looks.  First of all chrome will run.
+Then if you make it use this file it will take the file then it will go through
+this fight and it will translate it line by line.  And after translation it
+will convert into machine code.  Yes.  And also it will get executed and Chrome
+will execute it like C++ program and compiler will not execute it here.  Carol
+Moseley interpreter for JavaScript Chrome will execute it.  Yes Sir Howard will
+execute it will not translate holding then start executing it were tossed like
+first light.  Execute.  Second line execute totaling execute.  So line by line
+translation as well as execution.  Now let us compare this compiler interpreter
+C compiler will read the program.  It will be generating machine borderline
+line by line only but it will generate one which you've got for somebody's
+entire program and make a separate file by the browser which is an interpreter
+for JavaScript.  It will not create the E XY file for JavaScript.  So this is
+the first different second difference compiler just translate it will not
+execute but interpreted that as chrome it will translate as well as execute.
+The second difference.  Second defense core difference if once translated into
+machine code not used on it as many times as you want You don't need compiler
+translation is done only once but here whenever you want to run javascript you
+should call chrome Chrome will run it every time it returns.  So if end times
+you are executed and times translation become interpreter language then here if
+there is any error then it will not combine here.  If there is any error here
+suppose in some length then forced to length definitely liberally executed.
+INTERPRETER were not strong because you're just converting and executing
+converting executing.  If that is in the end or at any point then it will stop.
+So till there it will execute interpretative and execute compiler program runs
+independently interpreted program runs in sight.  Interpreter.  Interpreter No
+finally concluding point who is faster.  Combining programs or interpretive
+program computer programs are faster because they're independent as a separate
+program.  INTERPRETER programs are not fostered because they don't run
+independently Derek an insight interpreter insight interpreter context of
+interpreter so they are slower which are easy to write.  If there is any error
+in a single line it will not come by.  You cannot come if there is any line
+error in some line then a line till before that line you can execute.  So it's
+easy.  So to some extent you can see the program running at this place.  Okay
+there's an error I can remove it.  So these languages are very easy.
+INTERPRETER languages are easier than compiler with language like so.  This is
+the difference between compiler and interpreter not to give you one small
+example.  With this you can remember this entire thing what I have discussed.
+Suppose you are making are Chinese a recipe or dish you are preparing a dish so
+you have a recipe ofa Chinese dish.  It is written in Chinese that's written in
+Chinese.  You don't know Chinese.  I know Chinese and English so I can help you
+I can translate it again profligate right.  So you want to prepare a dish.  Now
+what are the methods I can translate.  Fatima tug I can't read that entire
+recipe and prepare English was used and give it to you.  Is the first mistake
+then second Metzger.  I will take that Chinese recipe.  I read first line
+translated and I recall you write and you will also execute it means you are
+not preparing a dish.  I will say take as I love this my size.  Okay you take
+it then take this it is the single digits you take it boy and take some water
+and boil.  You'll boil it so I'm reading in Chinese translating in English and
+I will I'm also getting it executed.  You are doing it.  There's the second
+attack.  Now let us compare them first method.  If I give you an English copy
+then translations are done only once and you don't need me.  When you are
+preparing a dish good defenses like and you can work independently.  Right.
+Same thing second defense.  Not here.  Every time we want to prepare a dish
+again you will come more Chinese please translate I will translate like this
+one.  And second thing whenever you are preparing your dish I must be delivered
+to you.  You're not independent.  That's all you can remember the differences.
+So if I translate I'll give you a separate English version on a separate paper.
+Now that Chinese version you can keep it in check if you don't need it.  You
+have the English version and you don't need me on that same recipe once again
+but here you need me every time because I'm translating and I'm getting it done
+by you and that phone work is over.  So same way this going will come inside
+the mean memory dig javascript and translate and get it executed by Cebu.  So
+this Cronus myself and this is Chinese recipe and this is useful for executing
+you on a standard machine code like in case of compiler.  You called me.  I
+took first dart CBP and converted into a four star taxi.  Now you don't need me
+whenever you want you can execute Derek that you execute.  So these are the
+differences.  Now finally let us stop a little bit about hybrid languages
+hybrid languages like languages like Java or all adopted languages like C shop.
+Now these are hybrid.  They have a partial combination that is first compiler
+will convert into byte good then later this is converted by JVM into machine.
+So I'm not going to explain in detail just briefly I'm telling you they have
+two steps compiler is also their interpreter is also their JVM acts as an
+interpreter right.  Does an interpreter.  Why do status compiler will check
+what compiler will do what it's not generating machine code the compiler just
+check for the errors if there are no errors byte code write code is error free
+code then Jim we have one word or translate into machine code so two step
+process I highlighted three things like checking for errors translation and
+then machine Gordon execution.  Total was execution.  So compiler just check
+for debtors error free.  It's not machine code is bite code then JVM translate
+into machine code and also execute.  So it's an interpreter so interpreter for
+byte code not for source code.  So these two steps are therefore providing
+platform and dependency or in darknet languages.  It is for language in
+dependency.  These are the different topics anyway just to be got the idea that
+there are some compiler based languages there are some interpreter languages
+and some are hybrid which have compiler as well that's interpreter.  The take
+the benefit of Port and type or provide some excel in features so that's what
+the word dystopic.  Let's continue with under the topic in the next video.

@@ -1,0 +1,53 @@
+# -*- mode:org; fill-column:79; -*-
+
+* Instructor's Note
+  :PROPERTIES:
+  :Section:  1
+  :Length:   3 minutes
+  :Section-Name: Introduction
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_01-Introduction/01.Instructor's_Note.mp4,Lecture 01.Instructor's Note}
+@end ifhtml
+#+end_export
+
+Hi.  Before you start in the course let me guide you how to follow this course.
+See this courses for beginners who are pursuing C++ as their part of academics
+and also useful for those who are going to attend job interviews and even if
+you are a professional programmer and you want to use C++ in your application
+development the course is definitely useful for you.  So if you are a beginner
+then you will be learning right from the very basics to the advanced level of
+C++ programming.  So if you are a beginner don't skip any video right.  Don't
+skip any video.  The beginning first two sections are covering the essential
+fundamentals that are required for learning any programming language.  So if
+you have never done any programming you are very new to it.  Then don't skip
+anything and follow each and every video.  Step by step like the next thing in
+every video or wherever and discuss programs.  I have written the programs on
+whiteboard after listening to the lecture.  Better you prepared some notes and
+also you try to write on the program by yourself on your own machine that is in
+your own environment that is own i.e..  And if you face any problem then you
+can watch our demo video next to the topic so every topic is having a demo
+movie do after that and also along with the demo video.  There is an attachment
+of the program that is shown in the movie deal for it such as you to practice
+it by yourself first and practicing C++ programming is more important just
+listening to the lectures will not help you.  The more you practice the more
+programs you write the more confidence you'll get and you'll get more used to
+it C++ programming.  And there are some student exercises at the end of each
+section.  You try to complete them and for them also or demonstration as well
+as a video that is a PDA of five is also a little bit for it.  And at the end
+of the course there is a student project a small student project at the end of
+C++ scores.  I suggest you to complete that project by yourself and for those
+also a demonstration and the code is given that of is and for every section
+there is some quiz.  Try to read them those questions and if you have answered
+wrong then I suggest you to just watch the relevant videos for once again on
+that deadly stage.  If you face any difficulty if you have any queries if you
+have any questions just feel free to post a question to me.  I will reply
+quickly.  I will give you an instant replay on that one and if you are having
+any errors while writing the programs and all I suggest you to send a
+screenshot right so that I can quickly answer you so you can post a question so
+that I can I shouldn't be able to understand your question and could be
+answered right so don't hesitate.  I'm always there with you told discourse.
+Alright so hope you enjoy the course and learn a lot of things in C++ in this
+course.

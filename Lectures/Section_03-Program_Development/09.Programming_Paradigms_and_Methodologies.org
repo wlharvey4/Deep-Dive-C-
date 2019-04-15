@@ -1,0 +1,163 @@
+# -*- mode:org; fill-column:79; -*-
+* Lecture and Transcript
+  :PROPERTIES:
+  :Section:  3
+  :Section-Name: Program Development
+  :Length:   12:29
+  :END:
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_03-Program_Development/09.Programming_Paradigms_and_Methodologies.mp4,Lecture
+09.Programming Paradigms and Methodologies}
+@end ifhtml
+#+end_export
+
+In this video you learn about a few basic things that are very important for a
+programmer to know these things.  So for a beginner This is very much
+important.  And if you're already familiar with this then you can skip the
+section and you can start with the next section.  So the things that I'm going
+to discuss here is what are programming paradigms Smith's programming styles.
+We will learn about this then what is and it'll go to them and pseudocode makes
+this flowchart then steps for program development.  Under this I'll be
+discussing about linker and Lauder.  So in this section these topics will be
+covered in different videos.  So in this video let us talk about programming
+paradigms.  Let us talk about programming pattern programming pattern means the
+style of programming right from the beginning of computer sciences.  That is
+from the beginning of a programming language just high level languages.  There
+are various styles adopted based on their development and new trends have been
+adopted in programming strengths so few of them I'm discussing here.  That is
+helpful for us to understand the programming approach of C++.  Let us
+understand this.  C these are the type of paradigms going British guess about.
+First one is monolithic programming then modular or procedural programming then
+object oriented then aspect oriented programming.  So right now today we are
+following aspect oriented programming.  We are following this approach and in
+the beginning it was monolithic so how the changes have occurred and what other
+differences between them.  We will study about them one by one so I'll remove
+this and start so already I have some examples here for explaining better
+things.  Let us start and pick up one by one and study them.  First one is
+monolithic programming.  This means the entire program called Source scored
+will be a single piece single fine or single body.  This was the early
+programming the beginning of programming.  So example basic is well will to be
+language that is all programming language.  This used to follow a monolithic
+approach in one of the video already said Doc a program contains two things.
+In the beginning videos I have said one thing program contains the data and
+instructions upon that data.  So if I listed here booting funded data and
+instructions so in monolithic programming everything is mixed everything I
+miss.  These are the lines of a program I have just drawn lines here.  I'm not
+reading the code program coded.  Assume those are the instructions in the
+program.  So this is one on a tick.  Let us understand the problems that this
+one see if I were being asked to be in a single body so it is just like one man
+show a single person has to do everything right.  So how many people can write
+this program together.  How many programmers can write or leave one program.
+What is the length of a program.  It can be growing if it is growing more and
+more it becomes difficult for a programmer to finish it.  It is very limited.
+Then it may take weeks or months of time for development and if there is a
+single letter in one line then the whole programming is useless.  So if you
+remove that line then the programmers correct.  So that's how the dependency is
+going to be broken down into pieces so it cannot be done as a team works only
+one programmer has to do it.  So it is just like a painting.  Only one printer
+campaign to write so multiple painters or a team of painters will not make a
+painting.  So that's why programming was taught as an art to work in the
+beginning.  So the reason the style of programming was monolithic so everything
+in it is a single block or a single piece.  Then I the new languages started
+evolving and requirements started changing and the computers were commonly
+used.  Then there was a need to develop the pig sized program which needs a
+team of programmers.  So modular programming was introduce.  So what does this.
+So competition with this one I'll explain.  See when everything is written here
+maybe a few lines are there that are used here and the same lines hardly done
+here on set.  So why do I do those two lines multiple did those same line
+multiple times.  Why can't I write them at one place.  I only use it multiple
+times here like function one I will call it a function one and here if I wanted
+more than one time I will call the function one once again.  I wouldn't call it
+once again function 1.  So this is what I'm writing the same piece of code and
+using.  So the first thing is that we're using we can reuse the code here.  So
+what does the function do.  Function performs so a smaller or specific task.
+This is performing a major task which is a collection of smaller dots.  So the
+idea here is that you can break that measure tasks into smaller tasks and you
+can define smaller tasks as it functions.  Each is a function.  Some of you are
+conducting an event like exhibition if you're hosting at your place at your
+college then you may have to do a lot of other things right.  Making
+arrangements in writing people right.  So a lot of other things like grads who
+can divide the work divide the work and you can do it as a team book.  So even
+can be organized by group of people not just one person.  So that's how a
+single person is doing the entire task.  Now you can divide us into smaller
+dots and divided and that's it.  So each a small task is a function function so
+that article last modules or procedures so we can make the math functions or
+procedures.  So this is the idea of modular programming.  Now one more example
+I give you here procedural programming means if a person is running a shop he
+alone take care of the shop so cleaning of the shop opening of the shop and
+dealing with the customer by choosing and maintaining inventory everything he
+did gets right.  So single person handling the complete business.  So it is
+possible for a small business not here a bigger business so bigger business
+acquired manager and workers.  So let us say function as a work.  Another
+function under the worker and so on.  Now he's manager.  He knows who should do
+the job and he will use them here.  Manager doesn't do anything by himself.  He
+will make use of the people.  People know how to do the work.  So functions
+will perform the tasks and the main function will organize all those functions
+to get and uses those functions to perform a bigger task.  So manager in a
+business solving the business business is bigger.  You need a team of workers
+and a manager.  So the change in approach right now.  What are the benefits.
+Benefit us.  Once you write the function you use it in your program.  This
+program are also you can use it in other program and even you can share it with
+other programmers in other projects.  So are usability of course once the
+functions that are done it can be used in a number of times second benefit a
+team of programmers can develop it.  Some will fight programmers issue is we
+developing one one function and one of the programmer will make a mean
+function.  So all the functions if you have some 50 function then then
+functions can be given to the programmers and one of the programmer can
+integrate all of them.  So a team of programmers can work.  Functions can be
+developed individually.  That is the benefit.  So this has increased the
+development of programs or suffix.  This procedure of programming under
+language which became very famous in procedural modular programming is C
+language then Next there's the same example does the same example.  Just a
+little bit more information is there.  Let us see this.  See here functions are
+set of instructions for performing a specific task.  This is for performing a
+specific task.  Performing operations and completing a task.  Operations on
+what data.  Various data data is organized here in the form of a structure in C
+language you can define structure where to begin group the related data
+together.  So this is the data and these are the functions.  And if you observe
+these functions are meant for back to date only they are meant for this data
+only.  So main function is having data under functions that are acting upon
+this data.  So this is the find that level of fighter material for I didn't see
+language programs where the structures and the functions does the same thing
+only modular programming now mixed as object oriented programming that has come
+to this.  So from here I can explaining that this is the data.  These are the
+functions meant for this data.  So what they're doing outside.  Why don't you
+include them inside of this one only.  So yes if you'll see here colossus glass
+contains data on the functions upon that data everything is inside the class.
+This is a complete class does the class.  Everything is inside the class so
+there's a new approach.  So the more the programming was having data separate
+function separate and an object orientation.  We say that you keep the data
+under functions related to that data.  You keep them together or and in
+defining as a class.  So this approach is object oriented and we can create the
+object of that class and we can call the function.  This is what used in C++
+and Java and other languages.  So this is the latest method and the present
+method that we are following that is object put in addition.  This what we are
+going to learn.  Let us understand the benefits of this func.  See if a
+programmer is developing something he can develop a glass so that glass
+contains the data and all operations are together so that the complexities of
+it in the class only so one programmer will deal with that complete complexity.
+So this work was distributed at a smaller level.  This work is distributed at a
+measure level.  This was a reusable function was reusable.  This is classes for
+use of the data and the functions together are usable.  That is the benefit.
+So this is a little higher level of stretch.  Now one last point.  What is the
+difference between these paradigms.  If you observe what if one to do remains
+the same.  What the software should do remains him.  What is the logic remains
+him only what is changing the way you organize your program code is changing.
+This is everything was that same place.  This is divided into function.  This
+is a divided input data structure and function.  This is in the form of
+classes.  So if you'll see the differences differences.  Suppose a person is
+running hot in that is giving or solving for the good people.  No one person is
+making everything somewhat alone me and our team of people are there who are
+running the.  Search the hotel business on me.  Everything is same that same
+for so and the customers are all the same type everything is seen.  This is not
+organized this is more organized so only there is how the hotel is working is
+changing proposal for enterprise zones of work and the same so same way.  If
+you're being a programmer you follow this approach or this approach of that
+approach.  The outcomes of the program will be seen only the differences if you
+look inside the program.  The way the program is written is different.  So this
+is not for the users of the program.  This is for the programmers.  It says
+these programs are useful for programmers to make programming easy.  And this
+is the easiest method of writing programming that is C++.  That's what we are
+going to learn.  So that's all in this video.  And the next video we will see
+algorithms and pseudo code.

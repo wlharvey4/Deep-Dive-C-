@@ -1,0 +1,30 @@
+# -*- mode:org; fill-column:79; -*-
+#+DATE:<2019-04-15 Mon 11:46>
+* Essential Fundamentals
+  :PROPERTIES:
+  :Section-Name: Essential Fundamentals
+  :Section:  2
+  :Length:   1:07
+  :END:
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_02-Essential_Fundamentals/02.Fundamentals.mp4,Lecture 02.Fundamentals}
+@end ifhtml
+#+end_export
+
+In this section I'll be discussing some fundamentals before learning
+programming language get awareness about fuel teens if you are already aware of
+this.  Then you can skip the section and you can go to the next section.
+Mostly in academics.  These are the basics that are taught.  So to get the
+richness of what the country does so that we can understand how to use the
+computer elements how to write the programs.  How do you divide them best.  So
+far that these are the basic topics that I'm going to discuss like how computer
+works than what other number systems like binding them or system work and what
+system.  These are useful in understanding how committed folks like that.  What
+is the program.  Why we write the program how great the program.  These are the
+things that we will discuss and I work the high level and low level languages
+combined that need to be done.  This is very important.  These differences are
+very very very important but then in an interview point of view on sorts
+important mostly stored and cannot differentiate them properly.  So I have
+given a very detailed comparison of these two.  Then what is an operating
+system literally bit operating system.  So let us start with the topic.

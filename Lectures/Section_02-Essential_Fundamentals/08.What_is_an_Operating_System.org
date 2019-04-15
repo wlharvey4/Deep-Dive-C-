@@ -1,0 +1,104 @@
+# -*- mode:org; fill-column:79; -*-
+
+* What is an Operating System
+  :PROPERTIES:
+  :Length:   7:28
+  :Section:  02
+  :Section-Name: Essential Fundamentals
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_02-Essential_Fundamentals/08.What_is_an_Operating_System.mp4,Lection 08.What is an Operating System?}
+@end ifhtml
+#+end_export
+
+In this video I'll give you a brief introduction to operating systems that
+there a long operating system for formerly people use them right on their
+laptops or on pieces.  The known operating systems on Windows.  This very
+famous operating system and Linux.  This is mostly used by professionals or
+this is used in companies turn.  That is Mac OS X is operating system.  These
+are the commonly found operating systems.  So what actually an operating system
+let's see operating system is a master program.  It will utilize all the
+resources of your computer system and provides services to the user.  See these
+are the components in a computer system like already we have seen this CPO and
+the main memory then the input and output device.  So I am showing keyboard
+mouse monitor printer and network and miserably hard disk right now.  The
+programs are running here program Something here inside the main memory may
+require these very fellows all the resources of your computer system or let us
+draw.  I use it also here.  Use it as using computer systems.  He may be using
+these resources like accessing internet or accessing some files on.  So program
+user will not directly use it.  He will use them through a program only
+definitely.  So finally users should be benefited from dirty sources and the
+program.  So does the responsibility taken by an operating system and it means
+the environment it provides an environment easy for a user to use the computer
+system.  So even on your mobile phone you have operating systems like Android
+operating system and able as operating system.  So on mobile phone also it's
+the same thing like you have a storage and the ram that is mean memory and the
+processor is there.  This blade surface that is a screen use of the display on
+its screen itself works as an input or a texture device touchscreen.  So what
+are similar not let us know how operating system books listen when you start
+your machine computer B.S. or mobile phone or laptop.  The first thing that
+you'll see is it is getting ready and if you're using Windows P.C. you will
+find a Windows logo and you will get a message of starting windows starting on
+your mobile phone Android mobile phone you will get a message at the bottom
+that is Android it's getting ready.  So the very first thing when you start
+your machine order device it will get ready upon operating system.  See
+operating system actually is present in the US storage on a hard disk.  So I'm
+showing it as Windows Windows EMC like Windows is also program operating system
+is also program.  But it gets loaded by itself so it will start to.  The more
+when you will start your machine operating system will get loaded and operating
+system will start executing so that your hardware or your device get ready up
+on operating system.  So this should come inside me memory.  So I will drive
+just OS in charge for operating system operating system will get pretty fast
+inside the main memory and the CB will start executing that operating system.
+So the very first thing that you get a screen that full of icons and cuts sort
+for miles everything.  All this is displayed by operating system and the
+operating system is already to take the instruction for you are the commands
+from you.  So you click on some icon for opening an application.  So how it
+works.  Operating system running here inside the CBO will bring by the program
+inside the main memory and it will ask the CBO to execute that program.  So
+that program runs within the context of operating system.  Now it is not
+independent it's funding as a part of operating system.  But in the control of
+operating system it is perfectly monitored by operating system.  So operating
+system will get our program and.  When you touch on the icon on the screen or
+when you double click on the icon on the screen on the ABC program will get
+into the main memory and an opening system will start executing it.  Now the
+last thing when our program is accessing a monitor or printer or network
+anything program cannot dynamically access anything cannot directly access.  It
+has to get the work done or make a request to the operating system.  It has to
+display something on the monitor.  It should ask the operating system that I
+wonder display this if something is typed from the keyboard that is coming in.
+And if a program wants that then it should ask the operating system to conduct
+input so programmers cannot access the hardware identically how to handle them
+how to access them like multiple programs may be running right.  So one program
+cannot capture the device so operating system take care of all these things so
+it will manage the resources so everything has to be done via our operating
+system by making a request to operating system.  So then any program any
+program but it is making a request to the operating system for accessing the
+resources or getting services from the operating system then it does that by
+using System comms system calls and we see that these are system cons are we
+also call it does API system call is the right term for this fun application
+program interface or system called our program will meaning system calls for
+the operating system for availing services.  So that's all I have explained
+your whole bidding system will stock on the machine and how it will help our
+program execute nine shark operating system as a master program which will take
+all the resources under control and provide services like you may maybe knowing
+us sports department our library in your college like labor division will hold
+all the books right.  He has a control over all of them.  He has the authority
+to issue the book or claim the book back from a student so he decides who
+should get how many books are not for how much period a book should be given we
+should do a story and everything he decides right.  So a better book is
+available or not available.  He knows everything so a student cannot directly
+go and pick up a book and take it home.  He has to request to the librarian and
+when he is returning again he is give it back to the librarian.  So library
+managers library that is three sources CMB operating system manages all the
+resources of your camera system and the programs will use these resources with
+the help of operating system.  Therefore a little bit to ward off an operating
+system so now you should know that there is something called operating system
+also between you and the resources under your program.  Right.  So there are
+few things that are done by the operating system during the time of your
+program so you should be aware of this funding.  So this is sufficient for
+about knowing about operating systems.  So that's all in the section in the
+next section we will cover a few more concepts that are very useful for
+programming.

@@ -1,0 +1,147 @@
+# -*- mode:org; fill-column:79; -*-
+
+* What is a Program?
+  :PROPERTIES:
+  :Length:   10:47
+  :Section:  2
+  :Section-Name: Essential Fundamentals
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_02-Essential_Fundamentals/05.What_is_a_Program.mp4,Lecture 05.What is a Program?}
+@end ifhtml
+#+end_export
+
+And this video I'm going to discuss what does it mean by a program y related
+program and how it is possible to write a program.  So we learn about these
+basic things.  See in the previous videos already we have discovered that our
+computers can understand binary form of language.  So there are some predefined
+set of instructions that go process order.  You can understand.  And we have to
+use those instructions for performing a task.  Now what does it mean by task
+here.  So let us understand why.  Actually we need computers.  What is the
+purpose of using computers.  We use computers for performing computational
+task.  So what does this computational task.  All those tasks which are done
+using pen and paper.  The computations by using formulas by using any
+expression we put the values and get done so we use various forms of love or
+reduce the steps.  So computation work that is paper work.  So for that purpose
+we use computers.  So that computation work can also be done using calculator.
+Yes it can be done using calculator.  So let us understand first how do you use
+a calculator.  And then I'll show you how we can use computers and what does it
+mean reprogramming.  We use calculator like this.  See for example if I have
+two numbers I want to add them.  First of them what is a protein.  And second
+them would a string be seven.  I want to add them.  So pick a calculator hit
+first number talking and then press plus then hit second number seven.  Then
+press equal to saying.  So I'm replacing plus sign and equal to sign.  And
+finally a good dancer that is 40 so you can use a calculator for adding two
+numbers.  A simple task so I don't need a computer for this one.  That next if
+I have a list often numbers I may want to calculate average of those numbers.
+So I'll just write on few numbers here 10 15 8 6 9 5 12 13.  So 1 2 3 4 5 6
+7 8.  I'm like for more numbers eleven and sixteen.  So I have to order 10
+numbers.  I want to define average of these numbers.  Then how to use a
+calculator.  Now watch it.  I have two and then I'll hit the 1 0 for the first
+number.  Then plus the next number then plus the next number plus next number.
+I have to go on adding them and that's something to be getting accumulated.  So
+finally I'll get the total of all these numbers like total is one not five for
+these numbers then I should also have the count of numbers total how many them
+was I have and them was I have then that that total I should divided by ten
+then I get that as that is ten point five here calculator doesn't know how to
+find the average I should know how to find the average.  So far finding an
+average I should have the list of numbers on I should go on adding them and
+then they should divide them by a number of numbers and that is 10.  Then they
+get everything right.  This is not a simple operation.  This was a simple
+operation.  This is having a procedure.  Yes there is a procedure for finding
+average.  Now similarly there is a procedure for finding the maximum number or
+the total number of numbers.  There is a procedure for searching a particular
+number.  In this list.  So for various things there are some procedures.  And
+if you have learned about statistics then I want to find a mean of these
+numbers or median of these numbers.  So there is a procedure for that.  If you
+want to sort these numbers then there is a procedure so calculator doesn't know
+the procedure means that the steps in law for completing a particular task.
+Know how we it.  Our teachers have taught us that procedure.  So we know the
+procedure right.  So same procedure can we teach it to calculate that itself so
+that just we will tell.  We want average.  It should ask what are the numbers.
+These are the numbers I think should give us 10 percent without asking us how
+to do it.  We want our calculator to be trained on this one.  So it means we
+want our programmable calculator.  Yes that's it.  So the extension of
+calculator I can see on the next level to calculate there is nothing but
+computer.  Computer is a programmable computational device.  We can define a
+procedure by giving all the steps one by one to our computer system and we call
+it as a program and the program a computer system or a CPO processor will
+execute those set of instructions and give us that.  So that's what is
+programming that's it.  This is what we use computers and what is programming.
+I have told you no more about program more detail and clear picture about a
+program.  I will give you my take on a list of numbers.  So does the list of
+numbers.  Let us see the procedure the same.  I want to find an image.  So what
+are these numbers.  These numbers are nothing but data.  This is a data then
+for performing average.  There is a procedure right.  So that procedure.  The
+steps involved in that one.  So those are nothing but instructions so he can
+say these are instructions right.  So do not do things no data and instructions
+upon that data.  So programmers nothing but collection of data and a set of
+operations or instructions on that data.  So we have to focus on only two
+things in our programs.  What is the data you have and what you do want.  What
+you want to do with that data.  So what are the steps.  What is the procedure.
+See we don't do it all.  There is no need of instructions like instructions are
+useless.  And if you have just the data more instruction than you don't want
+that answers right.  So these are the two important parts of a program.  So we
+have to focus on this one.  We have to learn how to represent our data and also
+we have to learn how to write on the instructions that will execute our
+computer data to get that answer.  So this was a learning programming.  Now one
+important thing for learning programming you should already know the procedure
+right.  This is the very very very important point here that most of this
+routine get confused.  The thing that learning programming will make them learn
+procedure no learning procedures are different.  Underwriting programs is
+different.  So we are going to learn new things how to write a program and how
+to write what a procedure right.  How you can work out what procedure into a
+program.  So a program contains a data and a set of instructions.  Now let us
+come to the computer site.  See this is all a machine computer machine right.
+So let us say it is a you know this is my science no language offers you as
+zero sequence by me.  How about you present day day and night when I am not one
+in the form of zeros and ones.  How do you present instructions.  That is also
+in the form of zeros and ones bought the data as well as instructions are in
+the form of zeros and ones that is binary.  Then what is my language.  My
+language is English language so instructions are in English and our data is
+also English.  Like if I if you asked me to read these numbers I would say 10
+15 9 6 8 does the English numbers are also in English.  If you know any other
+language then these numbers are guarded but the different words are there
+different names are there for them and the figures are also different.  So this
+is English those English.  So my data is also English and the instructions are
+also in English and CPE whose languages machine language is zeros and ones.
+This is binary.  This is machine language and this is natural language that is
+human being's language.  Now we want our machine to learn our procedures so we
+have to learn in a machine language order we should develop our machines so
+that they understand natural language anyone of this right now.  Either way
+it's not possible either way it's not possible we can't run machine language
+and computers are not so much developed that they understand national language
+no decent computers they are having some artificial intelligence that are
+useful for pulling the data but not for programming it for for programming it
+machine should understand natural language so this is not yet happening right
+then what we need now we need some intermediate language so that's easy for me
+on so easy for machine also.  So that's what Here comes programming languages
+the programming languages that we use like C C++ Java C sharp VB Python all
+these languages become under programming languages.  So we learn this language
+and what they will over the procedure side we transform them in this form and
+these languages will help us to transform that procedure into machine language.
+So from national language programming language and programming language to
+machine language translation is a time.  So this translation is not there.  We
+learn that we have to learn it right.  If dog populations have a level that
+anybody can do programming just you say it will become a program.  So we have
+to learn a programming language and write our procedures in that language.
+Then from this language there is something called compiler or interpreter.
+Right.  I'll just write in short we are waiting to learn that in this next
+video compiler interpreter will translate that into machine language.  So this
+is how programming languages are useful for writing programs.  So we should
+learn some programming language so that's all about what does it mean by
+program and why you need programming.  Let us three ways do things very
+quickly.  So you started with a calculator calculator if not a program remember
+device.  Now we want our machines to know the procedure.  Just want given the
+data we would not know the procedure.  So for that we need a language so that
+we can write a program.  So what a program will contain data and a set of
+instructions upon that data.  Does that mean by our ingredients of a program.
+But this has to be done in machine language.  We don't know machine language.
+So we introduce some intermediate language that is a programming language that
+is helpful for us.  And it will translate that into machine language.  Machine
+code.  And the program that is understandable by CPO.  So that's all in this
+video in the next few days I'll explain you what does it mean by compiler and
+what does it mean.  INTERPRETER What other differences.  By taking few examples
+I'll explain them like I have already used their name here.  That's what.

@@ -1,0 +1,90 @@
+# -*- mode:org; fill-column:79; -*-
+
+* Introduction to the Number Systems
+  :PROPERTIES:
+  :Section-Name: Essential Fundamentals
+  :Section:  2
+  :Length:   7 min
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_02-Essential_Fundamentals/04.Introduction_to_Number_Systems.mp4,Lectur 04.Introduction to Number Systems}
+@end ifhtml
+#+end_export
+
+So the previous video we have learned how computer works they I have told you
+that computer works on by needed a watch system that is zeros and ones or on
+and off but we understand decimal number system.  And also I told you that the
+code so that its numbers can be used escorts for giving instruction or data up
+or message.  So I'm just going to give the introduction to the number system
+but there isotopic details how their conversion from bulked up to binary and so
+many conversions of it.  If you want to learn not that it's mostly required in
+academics if you want to learn that there is a section called miscellaneous you
+have to go to that section and study in detail about the conversion.  So we do
+that have a liberal down here and this we do just I don't want to waste your
+time I don't want to go in detail right now.  So just I'll give you
+interaction.  No system.  So let us look at see basically views this among the
+more system in decimal the more system the pictures are figures are symbols are
+from 0 from 9 or 10 symbols we have ten symbols that computer walks and zeros
+and ones.  So how many symbols or little symbols.  So binary the most as some
+have only two symbols 0 and 1 that's all see one thing I'll tell you once we
+have finished with the last symbol after nine we used a combination of symbols
+we liked.  Then after that we write 10 10 that to zero in one reactor mining
+one zero.  So this place has one.  The next place again will start from zero
+one two three.  So we have finished with the symbol.  So that's why we're
+taking combination of symbol.  So same way we have only 0 and 1 10 orders the
+next number is 1 0.  We have to take the combination.  So don't read it as 10
+or read it as a 1 0 in binary form.  That's it.  So I have some numbers here.
+Just look at them zero in binary former 0 1 is 1 2 is 1 0 3 1 1 4 1 0 0 5 is 1
+0 1.  So on up to 16 I have written by if you want to be strong in the concepts
+of programming you want to study studied in detail very minor things you should
+know these numbers.  So some of them you should remember some of them should be
+quickly able to convert them so that I have explained in miscellaneous videos
+that you can learn it next.  What is this.  OK to let himself see remembering a
+number in 0 0 1 1 1.  Sort of sort of.  We need a simple method.  So what
+people have done to make this a simple option is introduce so you can take
+three digits of a binary number and convert it to optimal not even this also
+less so they have introduced hexadecimal examines six plus 10 hexadecimal
+total 16.  So 0 9.  Then after that 410 English Alphabet A which is used that b
+c d e f last.  So did I.  Total 16 digits in this fun figures in this one.
+Some months on this one.  Then after that we take combination 1 0 so horrible
+convert this into this one our distal optically binary 2 hacksaw.  Everything
+is there you can study it.  But in this video I'll just show you conversion
+from the C micro binary then binary back British humor just to give you the
+idea.  So let us take an example.  I have a number decimal number based
+elements it is decimal number.  So this is based and this is base 8.  This is
+Base 2 and this is based 16 so we write in here because 35 can be there in
+Octave also hex also which funded us now to show that we will say decimal last
+step.  That how to convert into binary.  So the method is we'd find out
+successively divided by two to get the binary form two ones to boo boos So boo
+boo once before remember is 1 2 6 to remember is 0 and 2 D is 6 remainder 0 0 2
+once to remember it is 1.  So we did the remember here.  We don't play decimal
+0 times 0.  Remainder is 1.  So take the digits from bottom to add up.  So the
+digit side 1 1 0 0 1 1 1 0 0 0 1.  This is the binary form so this is how our
+decimal number is converted into binary then a binary back to the human.  Let
+us see the procedure.  If I take the same number and convert in Dubai in
+decimal form so big the number in the boxes one two three four five.  So I need
+five boxes.  Then write this number.  1 1 0 0 1.  That I just bought them right
+buy lots of booze from right side to Part 0 2 Part 1 2 Part 2 or 3 2 Part
+4.
+Now 1 in 2 2 bought food plus 1 in 2 or 3 plus 0 in book group or 2 plus 0
+input to bar one plus one input 2 0 0 0.  This is how much 16 plus does so much
+8 plus.  This is how much 0 multiplied played anything is 0 only 0 multiplied
+by anything is 0.  This is one for home many this is twenty four plus 1 So this
+is twenty five.  So we got this in twenty five.  That is no system decimal
+system.  So this holiday conversion is done.  So that's it.  This is
+sufficient.  I have shown you the decimal number in binary and binary back to
+decimal so like this procedure are used for converting them using pen and
+paper.  Now electronic circuitry internally handle these things like for
+humans.  We follow this conversion methods to understand how it is represented
+by any form.  So no longer wooden no system will definitely help you right.
+Give you detailed understanding but associated with some other subjects are
+also there.  So in other subjects it will be very helpful.  Right.  That's all
+about no system.  See the coming video based on the concept only right.  So you
+have to be calm and follow each and every leader.  If you are big in that light
+so don't skip any video right.  I'm not going to directly start showing you how
+to write on the program a non fussy should have some basics.  If you're
+learning programming for the first time study on these watch on this video and
+you will be prepared for understanding programming.  All right.  So what is the
+next video.

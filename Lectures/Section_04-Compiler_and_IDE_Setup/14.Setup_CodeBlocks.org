@@ -1,0 +1,42 @@
+# -*- mode:org; fill-column:79; -*-
+* Setup CodeBlocks
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_04-Compiler_and_IDE_Setup/14.Setup_Codeblocks.mp4,
+Lecture 14.Setup CodeBlocks}
+@end ifhtml
+#+end_export
+
+For practicing C++ program or developing applications in C++ you need some idea
+where you can type the program and compile the programs.  And also you need a
+compiler.  So for Id choose ID that is square blocks.  So let's see how good on
+load blocks open chrome and say download code blocks so good blogs start Orji
+does that you are.  And so if you want you know that you are doing that.  So if
+you want to you can directly go to this you are in that discord blog start to
+slash downloads heading down are three options out there that is download
+binary Tillie's or so score and retrieve so schooled from subversion that is a
+C and will go to binary release.  And here we have multiple options that is
+only sort of file or no set up just a zip or Mingy w setup or GW.  No set up.
+So you have to select Mingy the blue set up on the word compiler as well as ID.
+So select this fun go to the website that the Source Forge for downloading it
+will start downloading the sort of file you just downloaded.  So let us start
+7:5 here it starts installation of code blocks see next and every on and click
+I agree next.  Then here is a place where the code blocks will be in.  If you
+want to change their data do cantonments and start installation so that we
+extract all the files of ID and the compiler sir do we want to run code blocks
+now.  So I'll say no.  And let us finish this one.  So next and it does finish
+it doesn't start.  No let us open the code blocks here already.  So I can
+google files and see Nilin project I can start a new project and the prototype
+that we have to select this console application and the language that you have
+to select the C++ and the project name.  My first finish now here the product
+is created and the source says this is a C++ file.  Double click on it and this
+is the source code file.  So here is all there is some code is written so you
+can type your own code in displays and you can write all your programs here.
+See under the stream header files included and the name space is also included
+here.  So using namespace this hello world is displayed.  You can read all your
+programs here that is using this main function and you can write your own
+functions or classes that will be learning slowly.  So let us see how to run.
+So first you have to build this one so combine say build this project build on
+the program so it displays.  Hello world.  So that's it.  So this all you can
+download and use this ID.

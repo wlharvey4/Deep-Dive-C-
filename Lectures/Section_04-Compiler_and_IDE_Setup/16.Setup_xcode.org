@@ -1,0 +1,37 @@
+# -*- mode:org; fill-column:79; -*-
+* Setup XCode
+  :PROPERTIES:
+  :Section-Name: Compiler and IDE Setup
+  :Section:  4
+  :Length:   2:18
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_04-Compiler_and_IDE_Setup/16.Setup_xcode.mp4,
+Lecture 16.Setup XCode}
+@end ifhtml
+#+end_export
+
+Literacy how to install ex-school on Mac OS X operating system C Google App
+Store and inside App Store search for ex-school.  Already I have X code
+installed on this machine.  See here is exclude options available for updating
+it.  So if I have to update I can update it if it is not installed and this
+button will be for installation of exclude.  So you can click on this one and
+install execute on your machine.  And the other method of installing Estcourt
+is good but very minimal.  And I come on line say exclude select install see
+hear the message I'm getting it's come on line tools are already installed.
+You've suffered a bit to install updates so all the code is eligible.  If it is
+not available then it will install it once it is installed you can start using
+it scored.  See here is exclude grid new exclude project and let it be come on
+line tool.  Next and here.  Select the language as a C++.  There are other
+languages also available.  So I'll give the project name as my first.  I was
+asking for the destination that this product should be stored.  So select the
+destination folder.  Now the project is created and this is the program find
+here all of the hello world program is created so you can remove the commands
+and here you can start writing your code.  So let us run this run and check
+yeah.  Here in this Rendle output is displayed.  So if you want you can remove
+this panel's And here the output as C can extend or the size of this one.  So
+does the watch window.  Really you can see the annoyance of the variables if
+you have any variables in your program and this is the output window.  So you
+can show and hide the output window from this toolbar.  That's it.

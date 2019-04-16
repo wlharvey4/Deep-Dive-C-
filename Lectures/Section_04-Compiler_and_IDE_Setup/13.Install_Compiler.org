@@ -1,0 +1,34 @@
+# -*- mode:org; fill-column:79; -*-
+* Install Compiler
+  :PROPERTIES:
+  :Section-Name: Compiler and IDE Setup
+  :Section:  4
+  :Length:   1:48
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_04-Compiler_and_IDE_Setup/13.Install_Compiler.mp4,
+Lecture 13.Install Compiler}
+
+@end ifhtml
+#+end_export
+
+Let us see how to install compiler an ID for development of C++ programs or
+applications C++ the very commonly used language.  Most of you maybe knowing
+how to install a compiler and how to use ID and how to start a new project so
+you can use the ID of your own choice are which is all that you did on your
+piece.  You can use that one.  I will be using ex-school but I will show you
+how to install ideas like David C++ and code blocks and also how to install
+ex-school and use export.  So let's start first look at how to download the
+compiler and install it.  Let us see how to install a compiler that is Mingy
+that blew open any browser and you are in for compilers.  Min g w o r g.  So
+does the minimalist general compiler for Windows.  And here is a download link
+available.  You can just click on downloads it will take a page from you can
+download a compiler.  So this is source for each dot net.  From here you can
+download the latest version of main GW setup easy to click on this and it will
+download the setup then using the setup you can install admin GW on your
+machine.  After installation you'll have to set the part of this compiler so
+that any ID can directly use the compiler.  If you download any ID along with
+GW then that Eglu can start using it.  So you're going to have to worry about
+setting the pot.

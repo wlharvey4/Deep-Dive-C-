@@ -1,7 +1,7 @@
 # -*- mode:org; fill-column:79; -*-
 
 #+TITLE:Learn C++ Programming Beginner to Advanced---Deep Dive in C++
-#+DATE:<2019-04-16 Tue 10:10>
+#+DATE:<2019-04-16 Tue 10:45>
 
 * Section---Introduction
 :PROPERTIES:
@@ -39,6 +39,19 @@
 #+include: ./Lectures/Section_03-Program_Development/10.What_is_an_Algorithm.org
 #+include: ./Lectures/Section_03-Program_Development/11.What_is_a_Flow_Chart.org
 #+include: ./Lectures/Section_03-Program_Development/12.Steps_for_Program_Development_and_Execution.org
+
+* Section---Compiler and IDE
+:PROPERTIES:
+:Length:   11 minutes
+:Lectures: 4
+:Section:  4
+:Section-Name: Compiler and IDE
+:END:
+
+#+include: ./Lectures/Section_04-Compiler_and_IDE_Setup/13.Install_Compiler.org
+#+include: ./Lectures/Section_04-Compiler_and_IDE_Setup/14.Setup_CodeBlocks.org
+#+include: ./Lectures/Section_04-Compiler_and_IDE_Setup/15.Setup_Dev-C++.org
+#+include: ./Lectures/Section_04-Compiler_and_IDE_Setup/16.Setup_xcode.org
 
 * The Course
 :PROPERTIES:

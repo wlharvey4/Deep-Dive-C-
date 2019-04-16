@@ -1,0 +1,39 @@
+# -*- mode:org; fill-column:79; -*-
+* Setup Dev-C++
+  :PROPERTIES:
+  :Length:   3:04
+  :Section:  4
+  :Section-Name: Compiler and IDE Setup
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_04-Compiler_and_IDE_Setup/15.Setup_Dev-C++.mp4,
+Lecture 15.Setup Dev-C++}
+@end ifhtml
+#+end_export
+
+Let it see how you download the C++.  So for them C++ you can in Chrome or in
+any browser or you can say download the C++ and get many links.  And one of the
+link is far from bloodshed and Dot Net which you can go to or check dot net and
+from here you can download C++ dev C++ that is beat up version 5.0 is available
+here here it is.  Main GW that is that combined are just without compiler that
+is executable only.  And so score is also available so you can download any one
+of these of your choice.  So if you install them in GW then you can really
+start using C++.  Otherwise you have to install compilers Sabaidee that is
+minimal G and you compiler for Windows you have to download it separately.  So
+click on this one and start downloading and it will start downloading.  Once it
+has finished downloading you can install dev C++ software and you can directly
+use it.  After downloading install dev C++ OK it has finished installation.  If
+I show you the folder to read Divx C++ has installed see and program finds and
+hear his name C-p so you can see that it is also installed.  Many GW that is
+Jianying compiler for Windows.  This is a minimal compiler for Windows.  At the
+start of C++.  English language is selected the next then.  OK say a new
+project and select an application that the project name as my first and it
+should be created in documents.  Now the project is ready.  Does this mean dog
+CPV file inside the project.  So here I'll just give a message hello world and
+and then we should use the namespace for C as the lines and then let us build
+the project and execute it.  Hello world is up here.  So that's all there is
+all you can open a new project for every program or application you can start a
+new project or else for practicing in the same verdict.  You can go on writing
+new code there and you can compile and run it.

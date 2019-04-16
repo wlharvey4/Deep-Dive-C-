@@ -1,5 +1,5 @@
 # -*- mode:org; fill-column:79; -*-
-* Lecture and Transcript
+* Programming Paradigms and Methodologies
   :PROPERTIES:
   :Section:  3
   :Section-Name: Program Development

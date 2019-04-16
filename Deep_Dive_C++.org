@@ -1,7 +1,7 @@
 # -*- mode:org; fill-column:79; -*-
 
 #+TITLE:Learn C++ Programming Beginner to Advanced---Deep Dive in C++
-#+DATE:<2019-04-15 Mon 15:13>
+#+DATE:<2019-04-16 Tue 10:10>
 
 * Section---Introduction
 :PROPERTIES:
@@ -35,14 +35,10 @@
 :Lectures: 4
 :END:
 
-** Programming Paradigms and Methodologies
 #+include: ./Lectures/Section_03-Program_Development/09.Programming_Paradigms_and_Methodologies.org
-
-** What is an Algorithm
-
-** What is a Flow Chart
-
-** Steps for Program Development and Execution
+#+include: ./Lectures/Section_03-Program_Development/10.What_is_an_Algorithm.org
+#+include: ./Lectures/Section_03-Program_Development/11.What_is_a_Flow_Chart.org
+#+include: ./Lectures/Section_03-Program_Development/12.Steps_for_Program_Development_and_Execution.org
 
 * The Course
 :PROPERTIES:

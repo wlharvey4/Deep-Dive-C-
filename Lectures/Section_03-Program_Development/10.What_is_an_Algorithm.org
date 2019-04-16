@@ -1,0 +1,122 @@
+# -*- mode:org; fill-column:79; -*-
+* What is an Algorithm
+:PROPERTIES:
+:Section:  3
+:Section-Name: Program Development
+:Length:   9:19
+:END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_03-Program_Development/10.What_is_an_Algorithm.mp4,Lecture 10.What is an Algorithm}
+@end ifhtml
+#+end_export
+
+In this we do over discuss about algorithm pseudocode and program.  Let us
+learn more about him.  First of all go to.  What is this.  By definition I will
+go to them as a step by step procedure for solving a computational problem.
+Then what is the program.  Program is also seen a step step by step machine
+instructional program instruction for solving any problem that is computational
+task then what is the difference between it'll go to them and program.  See we
+have started writing programming recently but algorithms are existing from
+centuries people have been devising procedures for solving computational
+problem.  This is common practice who are doing this mostly mathematicians who
+are doing it or scientists are doing it.  So those who are working on some
+problems studying a problem and finding a solution David are giving a solution
+in the form of and go to them.  That is procedure step by step procedure.  Now
+we want that same procedure should be followed by a lot of machines.  So we are
+writing program.  OK.  Yes that's it.  So it means first we have algorithm
+right.  First we have algorithm then we can word dog into program.  Yes exactly
+exactly.  Then as a stone and if you will study what do you learn here you
+learn how to solve a problem.  This is different how to solve a problem right.
+So are you capable of solving any problem.  It's not easy to start solving
+problems.  First of all you low on few procedures done from dog you get some
+new idea.  Then you can start solving the problem by yourself.  You need some
+skills you have to develop some skills analytical skills or problem solving
+skills you have to get it so that mostly you get from various other subjects
+either left mathematics not be only completely mathematics various other
+subjects and it depends on your IQ level also.  How do you solve a problem.  So
+if you know how to solve a problem you can write it over and go to them.  It is
+just like if you know how to prepare the dish.  If you are a chef then you will
+prepare recipe right.  If you are a chemist then you will prepare a chemical
+formula and you will prepare an experiment for chemical formula.  Getting the
+chemical isn't right.  If you are a musician you will compose music so if you
+are a mathematician you will write an algorithm that is procedure that's it.
+So this requires different skills right.  So mainly awareness of your
+mathematics and awareness of problem solving.  If you have an algorithm then we
+want our machine to perform that algorithm and get that as I write it in the
+form of a program.  So converting an algorithm into a program.  So that's what
+you should know the language.  So if you know the programming language then you
+can pick up that programming language and write on a program.  Convert this
+into this then how do you write in which language you write.  This fund we can
+use any language here.  English like language than English.  English also you
+can use here lets people use some formal notation it looks more like
+mathematical or more like programming like so that type of code we call it does
+see look good right.  So pseudocode is not defined not a standard whatever you
+write as you look.  Right.  Sometimes we define our team really fine and follow
+that one other ways if it is understandable that's enough you write any way you
+like but program you want to strictly follow.  If you're using C++ then you
+should strictly follow Syntax Grammar of that particular language here.  There
+is no grammar as long as one can understand if a person can read I can use if
+you want I think you should understand it.  That's enough as a pseudocode.  So
+analysts or mathematicians who know how to solve a problem by the title go to
+them and programmed to relied on a program.  So now as a student as a computer
+science student or person you have to devise an algorithm and you have to write
+a program.  But so many algorithms are already available to be a struggle
+learning about them only that is sufficient if you're not on board all existing
+algorithms and you know how to convert them into program that is sufficient.
+You don't have to invent anything new unless and until you need it.  And if it
+is not existing.  Right.  So this is the general idea.  What the algorithm
+watch this program and also pseudo code I gave you for learning programming.
+People will follow the right algorithm then they will convert it into a program
+so that if you have a practice of this one and the literal and if at all you
+have to devise your own algorithm you should be able to do it.  You should not
+be new to algorithms.  Now let me write an example algorithm and also for that
+I will write on a C++ program.  But I'm not going to explain you how that
+program is written and not just a sample to look at.  Let me know.  So here I
+have an example algorithm as well as a program that the C++ program that is
+just a complete program just a function.  Let us study this.  See this is for
+finding average off list of elements I have collection of elements I want to
+find out average.  Read it some is 0.  OK some I find zero.  This means put
+this zero inside sum.  Yes that is the meaning data is showing the dedication
+then for each element x in list so we will call each element as X in the list
+then begin some assigned someplace x.  So go on adding the element in sum so
+this portion as adding all the elements.  Then after that average assigned sum
+by a number of elements though I get an average number on average so if you
+read you can understand for finding the average of a list of elements.  Add all
+of them and divide by number of elements.  Let's see how this is written as
+English not exactly English.  Similar English as it does C C++ program.  If you
+have ever seen it is it looking like that.  No but is it readable.  Yes.  Then
+what is the scored pseudo pseudocode.  It's a pseudo code.  So let us make some
+changes and stop fighting this.  Can I say colon.  A fine equal to cool and
+equal to dissolve a shooting and erection.  Then he also called Unequal too.
+Yes you can write you can write you can read write so if you want to change the
+symbol gender symbol alike for each element x in list.  Bu mostly defined by
+this to do this.  Okay you are.  That's also meaningful.  So instead begin an
+end.  I will say flower record yes.  That is also showing the beginning and
+ending.  No I believe was a square bracket.  OK.  Use it.  So now this is
+sufficient.  The idea is whatever you write it should be relevant.  Right.  It
+should not.  One should not get confused at least for whom you are writing.
+This should not get confused.  This is how we write or algorithm using
+pseudocode.  Now the same thing for finding average of list of elements does a
+C++ program as a C++ program.  It's a function it's not a complete program just
+a function inside this.  If I don't get semicolon it's an error an instruction
+assignment if I write less than an hyphen it's wrong compilers say more does
+this.  If you want to store the value here like this.  If you want to store the
+value you must use equal to symbol and that is called an assignment.  You must
+write like this there's a variable you like if you write semicolon.  It will
+not work.  So it means you should follow the proper syntax of a language.
+Because this is not for you does it not for you.  You are writing it for the
+compiler to understand it and convert it into machine course you will write C++
+program and that gets converted into machine code or machine language.  Who can
+words that compiler will convert.  So you are talking to compiler actually.  So
+you should talk such a weight easily in this track if it is not understanding
+it cannot convert it into a machine.  So this language is the language of
+compiler.  So you should follow the syntax perfectly.  That is the reason you
+have to put some little extra efforts for learning programming initially or do
+mistakes.  You will not write the things properly you must feel things you know
+not know what errors you get.  Once you start getting errors we will start
+realizing okay.  These are the mistakes handling so from mistakes you will
+learn programming so that's all about the combination of algorithms to Gordon
+program.  So I have given you enough basics so that Sol in this video.  So the
+next topic is flowchart.

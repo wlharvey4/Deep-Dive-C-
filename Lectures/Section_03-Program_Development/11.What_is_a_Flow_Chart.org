@@ -1,0 +1,115 @@
+# -*- mode:org; fill-column:79; -*-
+* What is a Flow Chart
+  :PROPERTIES:
+  :Length:   9:34
+  :Section:  3
+  :Section-Name: Program Development
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_03-Program_Development/11.What_is_a_Flow_Chart.mp4,Lecture 11.What is a Flow Chart?}
+@end ifhtml
+#+end_export
+
+Video let us talk about flow charts flow charts their use at the time and more
+analytic programming was of their than later on than procedural programming
+came though you switch off flow charts for as little produce.  I'm good.  We
+are following object oriented programming or aspect oriented programming so the
+usage of flowchart is very much less so what does a flow chart flow chart is
+used for showing the flow of control of a program.  How the program is slowing.
+What are the steps it is performing.  One by one.  So if a program is very big
+it is hard to figure out how the flow of a program as so flow chart is useful
+for understanding the program and stuff.  One is reading the program and
+understanding.  He can see the flow chart and understand how the program is
+working.  It is just like if you talk about electrical wiring in a home.  Then
+from there the wires or the cables are moving through the walls.  If you have a
+plan then you can know where exactly they are flowing and where are the
+important points.  Everything you can do.  Otherwise if there is any problem in
+dividing then you have to dig the hole one.  You have to dig the hole one to
+find out.  The problem is there is a proper plan.  Then you can understand.  So
+before laying the wire so pulling the wires we will make a plan.  So CMB before
+writing the program we make a flow chart right.  So based on the flow chart we
+write the program.  So this will help you understand the program.  Now next
+usually when we are using flow chart the program as a scene as three steps
+input process and output.  We call it like this.  First it takes some input.
+Then it will process.  Then it will give output.  So any procedure you take it
+will have the similar steps like I was talking about a recipe preparing a dish.
+Input is the ingredients.  That process is the process of making a dish and
+output.  Additionally if you take a chemistry experiment our chemistry
+experiment that is done usually in laboratories will have input most chemicals
+handle vessels or instruments for whatever you need.  Then the process what you
+will do with that then it gets the desert.  So every procedure will have these
+fittings or program also used to see like this.  No fallback program.  We draw
+the flowchart No let us look at the elements of the flow chart.  This is a
+pictorial representation.  So picture side therefore representation.  This
+ellipse is used for stop and stop and this is for taking input as well as
+output.  And this is for processing and this is condition.  And this shows flow
+of control.  Now there are a few flow charts and show you gives you the idea
+how flow charts I use and how they are useful for writing the programs flow
+chart for adding to numbers.  See first of all a flow chart starts.  This is a
+start then for finding addition of two numbers.  We need two numbers.  So that
+is input.  So we need input so we can give a message usually give the message
+that print Enter to two numbers.  So does a message usually we write that
+because we are writing a program program should be interactive.  So for that
+purpose right.  Then read good numbers.  So we read them in media.  A and B.
+This is input.  Now we have two numbers and variables and b that next step is
+process so processing that we have to do.  We have to add a and b and stored
+the result in C the first processing.  We have the result and seen now so
+output basically the output so print some as See that's all end of the
+procedure.  There's a stop.  So does that end a flowchart.  So how it's going
+to work force it to take input then it will perform addition then it'll give
+the output then it will stop.  So this shows the flow of control.  These lines
+are showing the flow right.  These lines are showing flow there's a simple
+example.  The next example I will draw a flow chart for finding a greater
+number.  If you have two numbers then which one is the greater we will find
+out.  So in that period it will be saying we need to take two numbers.  Then
+from NBC you'll find out which one is greater.  Whichever one is greater.  We
+will print that greater number so I'll remove this and modify this one so here
+flowchart starts and it will take two numbers.  Now we don't know which number
+is greater.  So then we have to check with the condition that if a is greater
+than B The name is greater.  Otherwise B's so far a condition we can use the
+symbol.  So here I will draw condition box.  So here I can check if is greater
+than B if it is a 2.  Then we will print a if it is a false and then we will
+print B.  Now here there are two branches.  True or false.  So I will take two
+branches first one.  Let us take it two if this is true.  And second one if it
+is false.  So if it is true then we will print a value a print a simply I will
+say E then here false print.  B if it is not then print B then what to do after
+this.  That song is over.  So this is over.  Then finally it has to stop.
+Right.  So this will flow and come here and this will join at this point.  So
+this will also stop.  So this all we can use a commission box s is greater than
+B to then print a false means.  B is greater.  So plan B so we can look at this
+one.  Now we will see one more flowchart for printing numbers from 1 to 10.  So
+I will remove this and never draw flowchart for printing numbers from 1
+flowchart for printing numbers from 1 to 10.  So for building we have to do two
+shootings one is print.  Second is count like 1 and 3 print so counting as well
+as printing two things we have to do so keep in mind.  Ivan droit let us start
+this as a starting point of a flow chart.  Now next we have to take any input.
+No.  We already know what we have to print numbers someone Britain.  So that is
+more important than initially we should have some counter for counting as we
+are printing from one on one.  So we need something starting from 1 onwards.
+So for that we take a counter.  So this is a process so in processing we will
+take ie.  That is initially just one for first time.  By this one we will be
+printing it right now.  Next we will bring this one.  So Friedman's output so
+print I print I saw first time it will be printing one next.  After this I
+should change it to do.  If it is one then it should increase by 1.  So how to
+increase it by 1.  So this is again a process.  It is not input output.  So
+whatever I value is in that I had one installed the other didn't I.  So this
+will increase the value of i buy one in the next I have to print again.  So
+again print and again increase again print and again increase how long.  As
+long as I is less than or equal to 10.  So is I equal to now or is it less
+then.  Yes it is less than to hold a check.  Checking condition box.  So here
+again we need a condition box.  So here inside this condition what we will
+check if i is less than or equal to 10.  If yes we will print the game and
+increment.  So if yes that is true for this true then go here again stock.  So
+this is like a loop.  This like a loop it will go there and again stock and go
+there again stop how long it will be go on repeating as long as this is true
+how long that is true.  If I use less than an equal to 10 so when I becomes
+eleven we should not print so false if it is a false means.  This is false we
+should stop does this stop so that's what does the flowchart for printing
+numbers from 1 to 10.  This is how flow charts values in only days of
+programming but still in academic.  So this is being used this is being taught
+initially but it is not much useful later on.  But initially for understanding
+programming this is little helpful.  So that's all about the flowchart and next
+video we will see what other steps in more for writing and compiling and
+executing a program.  So step four development and execution of a program.

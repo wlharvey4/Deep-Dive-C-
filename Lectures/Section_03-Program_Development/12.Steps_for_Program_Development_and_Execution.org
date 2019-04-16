@@ -1,0 +1,188 @@
+# -*- mode:org; fill-column:79; -*-
+* Steps for Program Development and Execution
+  :PROPERTIES:
+  :Section-Name: Program Development
+  :Section:  3
+  :Length:   13:02
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_03-Program_Development/12.Steps_for_Program_Development_and_Execution.mp4,
+Lecture 12.Steps for Program Development and Execution}
+@end ifhtml
+#+end_export
+
+This is an important video here.  We will learn the steps involved in the
+development and execution of a program; so development and execution of a
+program.  So what are the steps?  We will learn about the steps in detail.  So
+we will be learning again and again but we will be using these steps every time
+we are writing any program.  So what are the steps involved?  Let us see.
+
+** The Steps
+1. The first step is editing
+2. Second is compiling
+3. Third is linking libraries
+4. Fourth is loading
+5. Fifth is execution.
+
+
+*** Editing
+ So let us pick up the first one.  Editing means typing a program videotape the
+ program so you can type a program in any text editor but after typing you have
+ to combine link and also you will be executing.  So that is difficult.  So we
+ want all these things at one place editing a program combining a program
+ linking libraries loading an execution all these should be together at one
+ place.  So what is that place.  So the software side available for performing
+ all these things together at one place the software side called as I B E
+ integrated development environment development involves these things so
+ integrated means all these things together at one place.  So I.T. is out there
+ so we use ideas for programming whether it is C language C++ Java any language
+ we use I.T. so for every language there is a different idea available and some
+ ideas are therefore all programming languages.  So to name a few ideas for C++
+ we have I.T. that is terrible C++.  This works for C language as well as a C++.
+ Then we have definite C++ Dev CPB.  This also for C++ as well as C language and
+ body language which supports like and X good good blocks and Eclipse visual
+ studio.  This is from Microsoft.  So so so so many ideas are available these
+ are available provided by different software vendor.  So software development
+ companies they have their own version of Heidi we whichever what you are
+ comfortable you can use that if you are very new to programming then you can
+ select Dev C++ right.  And if you're using Mac machine then you can go for X
+ code like R code blocks you can use any of these ideas which are what you work
+ on.  Right.  Mostly in India in colleges they use Turbo C++ for teaching C C++
+ programming.  The students end up in a quality laboratory.  They use this fun
+ or else they use a Linux upon Linux.  Also you can use the DCC compiler.  I am
+ using it scored in my course.  The reason of using x Cordis is easy for
+ explanation purpose right.  But in the next section you will find how to
+ install all these things not.
+
+ A few more things when you install any one of these.  You will also get out
+ compiler along with that or in some cases for some I.D. You have to install
+ compilers separately ideas separate compilers separate and you have to
+ integrate that compiler in the.  You have to do it and in some cases many
+ install i.e. it will also install compiler.  So setup an installation bodies
+ shown in the next section so from there you can learn and you can set up your
+ own environment for development.  So in that ITV write the program.  So
+ example program already you have taken here.  Suppose I have written the
+ program so editing is over.  So we have finished editing nomics compiling.
+ I'll remove this.
+
+*** Compiling
+ The next step is compiling some although I haven't done this program I'm not
+ going to explaining the program so this will be going in the next section.  So
+ just a program that does a C++ program.  Similar although I haven't done the
+ program and defined limits first to DOD CPB does the C++ program fine.  If I
+ type decide i.e. edit it I should save it.  So if it is saved then it will be
+ on the hardest.  So here it is on the haggis.  So I have never done a program
+ so it is simple enough.  Find out that is for the dog CPB so there's a source
+ code and c++ compiler based language.  So next thing to have to do dumb pilot
+ so if I call the compiler from diet his options will be available you can call
+ the compiler and if you call the compiler compiler will convert this into
+ machine good and let us see the gifts first to dot e e fine on window B's
+ machine that ELC extension depends on Windows based machine.  Most of the user
+ who use Windows so I'm using extension dot XY.  It means executable fight.
+ Now how that XY file looks like saying my program there are two pieces.  One
+ is a function called Max and another is a function called mean and an inside
+ me and I should have written zero because it is returning.  So there are two
+ functions max function and main function so machine good looks like this.
+ This is Max function machine code of Max.  And this is main function machine
+ core of mean.  So two pieces of code will be there that this is a separate
+ file.  So here are file will be stored on the hard disk that is first don't
+ eat X E and this is a machine called Fight.  Let's say that is generated who
+ generated that Compiler Compiler will look on what does.  If there are no
+ errors here.  If there are any errors it will highlight and show you the
+ errors and ask you to remove them.  If you have removed them perfectly then
+ you get that file.  So compilation is over.
+
+*** Linking Libraries
+ Next thing this is a building compilation along with the compilation only.
+ This is over.  No will become this linking of library.  What does this do for
+ writing the programs.  We need a lot of things that are actually available
+ inside the language.  So language provide some built chord element code that
+ makes it easy for us to write the programs.  If that element code is not there
+ then you have to do a lot of work before even doing a smaller task like
+ volunteer thing as a reading something from the keyboard or pending something
+ on the monitor.  Right.  Saving something in a file.  So in Metro Medical
+ operations like the Costa del S.A. log calculating these things.  So for
+ various operation building functions our classes are available in C++ that are
+ available in high dollar fines or library files.  So there's a header file we
+ include and supporting with this funding is a label to be fine that is having
+ the machine code readily available.  So let me show you here in my program.
+ See all these things are my own means.  I have defined them.  Then what does
+ this see our destiny's sealed.  Does a an object ever a liberal in C++ that is
+ useful for printing.  If you look inside the main function these are the
+ variables.  This is a max function varies Max.  Here is Max then C already C
+ out.  It is there in your stream.  I have included it so machine code for that
+ C old should also be included right.  So yes Doctor will also be included in
+ my first dot e XY.  This is the machine code for SEO machine code for c in and
+ many more.  What they were available here in your steam blockage so your
+ stream of the header to find and that is supported by Labor doing fine.  So
+ when you are using the labor it means that the machine code of the Labor today
+ will be copied in your e XY fight.  That's it.  So this process is called us
+ linking of libraries that libraries link with your program.  So Lincoln's
+ white file is not linked the contended so far copied in here.  E XY file and
+ this is one of the important thing we share with the function that you're
+ using the machine code will be copied in your file.  Actually the header file
+ you use entire header if I will be copied it fine.  So we should be careful if
+ you're not using.  Don't include the header fights.  This is over.
+
+*** Loading
+ So now the .exe is ready.  This is done after the compilation along with the
+ compilation process everything is already there.  Right.  Now.  File is
+ ready; .exe program is ready.  so big here.  Development work is over.  So
+ this is development closed.  Not boost up for execution booster for execution.
+ No I want to run the program so far running the program.  First of all this
+ EFC file the content that is machine quote should be brought into the main
+ memory.  I've been telling you this in the previous videos also so it should
+ be brought into the main memory.  So does that mean memory.  So this main
+ memory we will study a little bit that main memory is divided in two three
+ logical sections and it is used.  So there are three Section One is the code
+ section.  Another one is a stack from the top and this module one is a heap so
+ it is divided into three sections sometimes for explanation I write stock here
+ and him.  So basically there are three sections right there they are.  That is
+ a different thing.  So let us see how it will turn for the program.  This
+ program chord machine chord has to be brought into the main memory rich area
+ group section.  So all this machine code will be copied in this code section
+ Max machine or main machine good.  And song.  So I don't have space to show on
+ for that machine quarters copy.  This is called us loading bringing up program
+ from Hardy's to the main memory for getting it executed by CPO.  This process
+ is called loading bringing it here inside the main memory.  It's loading.  So
+ this loading process is also important process and while loading whatever the
+ arrangements are required that are done.  So that arrangement.  We don't have
+ to go in detail that is called Ask for relocation.  So all of these things are
+ done by operating system operating system will bring that from the mean from
+ hard disk to the main memory.  I'm not saying that in this picture it is that
+ in the memory of it is that operating system earnings so it will bring the
+ program into the mean memory right.
+
+*** Execution
+ Then after bringing it it will as the CPA will to start executing the program
+ from the first line.  So here is the main function so it will give the address
+ of the main function and CPA will start executing that program and that
+ machine code will execute and it will utilize all the functions whatever the
+ machine calls it will track.  So that's about execution now.  Little bit more
+ toward the execution.  No loss of step I'm sure.  Once the CPA is given their
+ address it will start executing.  So if you look into the program this is an
+ instruction instruction on design instruction does an instruction does an
+ instruction but this ABC is a data variable X Y are the variable.  This is
+ variable.  These are the variables.  Now for the variables also space should
+ be there.  So for the variable space is taken here inside stack.  This is
+ taken inside stock right.  So those variables will be created inside the stack
+ during execution of a program that are created there inside.  So stack is
+ useful for variable creation and code section is useful for program itself.
+ He what is the use of he.  It is used for dynamic memory allocation.  So we
+ are going to learn more about this a star.  Keep an eye on it in later
+ sections we will learn about the syndicate.  This is sufficient here.  Just
+ the introduction that there is something called stag this something called
+ Code section and heap that is sufficient.
+
+** Recap
+ So that's all about the steps for development and execution of a program.  So
+ this is how a program has developed and executed it now will be using ideas
+ and we will live it.  I think the programs.  This is all behind the scene so
+ we don't see all these things just we type the program in.  So this is what
+ all happening at the background.  So that's all in this video and that's all
+ in this section next section.  As for setting up an I.T. might help install X
+ chord and chord blocks and they've C++.  I have shown that if you are already
+ aware you already have of environment already have an idea then you can skip
+ that and you can directly stock from next section.

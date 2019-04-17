@@ -1,0 +1,144 @@
+# -*- mode:org; fill-column:79; -*-
+* Skeleton of a C++ Program
+  :PROPERTIES:
+  :Section:  5
+  :Section-Name: C++ Basics
+  :Length:   8:34
+  :END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_05-C++_Basics/17.Skeleton_of_C++_Program.mp4,
+Lecture 17.Skeleton of a C++ Program}
+@end ifhtml
+#+end_export
+
+In the previous section we have already learned how to download and install the
+compiler and the IDE required for developing a C++ program.  Hope you're ready
+with the setup; if you're not ready for this you could go back to the previous
+section and watch the videos and get the environment ready on your P.C..  And
+this video I'm going to show you the skeleton or the basic programs of C++ and
+the following where do you find a demo.  How to start a new project and how to
+develop the first program.
+
+So here first of all let us start with the skeleton of a C++ program.  See this
+is a skeleton order already you have kept it ready here.
+
+#+pindex:first.cpp
+#+caption:Skeleton of a C++ Program
+#+name:first.cpp
+#+begin_src C++ :results output
+#include <iostream>
+using namespace std;
+
+int main()
+{
+  /* std::cout if not using namespace std */
+  cout << "Hello, World!" << endl;
+  return 0; /* implicit return; can be omitted; */
+}
+#+end_src
+
+#+RESULTS: first.cpp
+: Hello, World!
+
+Notes:
+- =int= before ~main()~ is the {{{dfn(return type)}}}.
+- The area between the braces (={...}=) is the {{{dfn(body)}}}.
+- The =<<= symbol is the {{{dfn(insertion operator)}}}.
+- =cout= is an object used for input and output operations.  It is defined in
+  the ~iostream~ library and imported by the line ~#include <iostream>~.
+- =::= is the =scope resolution= operator
+- ~return 0;~ is implied and can be omitted
+
+You have to start a new project.  Let us say the project name is
+{{{code(first.cpp)}}} and the program file this for the door CPB.  So you have
+to start this one the inside that this is what you have to get done.  So every
+c++ program basically looks like this.  So let us understand what are these
+elements.  So I'll start from this point.  See this is the starting point of
+the C++ program.  Main function.  This is main and their own buckets are there
+for the function.  The main function is the starting point of C++ program.
+Then what does this end.  This is called as a return type of full function.  We
+will be learning about the return types and on afterwards but right now as a
+formality you have to write it always and when you have written into bed at
+this place then you have to write it on zero at the end of the main function.
+And this is the body often means function back as the opening floor record
+including slower market not what all you have to write on.  You have to write
+it here inside the body off main function.  Then what does it mean by this hash
+include.  I'll explain it.  So first of all I will write something here inside
+the main function and show you.  So here as a first program I want to give a
+welcome message so I will write Hello world.  So I want this program to print
+on the screen hello world.  Then I run the program.  So how do updating
+something on the screen so far.  Bringing in the team on the monitor that is on
+the screen from your c++ program.  There is a built in object available in C++
+that is C out Seaman's console out that is console out so monitor is triggered
+as a console.  That is output the console then that is something that is
+keyboard that is useful for taking input right.  So does this input console.
+So it means for that there is C in Yes c out for wanted to cancel out C in that
+console in for keyboard that is sticking an input from the keyboard.  So let us
+use the c out and bring something on the monitor.  So as I said real printing
+Hello.  Whoa.  So we have to use this to angular brackets.  This is called as
+insertion operator insertion operator.  We have to use this one for building
+anything.  Then here inside the bill goes I will say hello.  Word.  So what are
+the messages that you have to print.  You have to give it didn't double quotes.
+So this is a string or a message.  It's a string or a message.  This is given
+and will see out.  So it will be printed on the monitor.  So then you run the
+program.  Hence the word will appear here handle.  Well the APF here so see out
+is a object used for printing anything on the mind.  And if you see this double
+less than symbol to less than symbols both are on the keyboard you will find
+less than simulated for two times.  So that is acting as a insertion operator
+if you'll feel it.  It looks like as if inserting this one in sight seeing.  So
+once I inserted it would appear on a monitor.  It gives the feeling that you
+are inserting something.  So that's why it is called us in such an object.  So
+this all we can print not next thing we see out came from the disabled game.
+We know that for every C++ forgotten we should try it on.  Int main float back
+kept close and return then whatever to be arriving here.  This C out came from
+the C old object as well as C in object.  These are present inside this I will
+stream identifying so actually this is a library.  Library will contain the
+collection off of Burton objects or functions that a programmer can use and
+easily write the program.  This is provided by C++ compiler.  When we install
+the compiler you will get the libraries.  So there are many libraries we will
+learn about them slowly so whatever your requirement is depending on dog you
+can include the library in your program so everything from the label or even be
+attached to your program and you can use it.  So see all this present in this
+library.  That is your stream library for including that one the include bytes
+name or bytes identifying so in some compilers even you have to write on your
+stream dark edge right.  If this doesn't work in your compiler then you write
+your stream dot each other it's just a stream now.  I will remove these things
+and I'll explain a few more things about this one.  The sea out as it is
+present there.  We cannot use it directly.  We have to write down namespace so
+I have to write a steady double column.  The symbol you will find on the
+keyboard.  You hit it for two times so this is Scorpion's solution.  Colon and
+colon.  That is double colon.  This is called us scope resolution for the
+correct method is right on STV scope resolution and SEO and whatever you want.
+If this is how we use that SEO object.  Now this is a perfect program.  If you
+run it you will get help awarded on the screen.  Now one more thing if you're
+writing a very lengthy program or bigger program and you have to you will see
+out many times that instead of writing it like this there is another way of
+doing this using that C out as the last seen object the other method is here we
+can write using namespace using namespace and this namespace need.  So when we
+say that we are using this namespace we don't have to see this one.  We can
+organically see how it means that we are using that namespace means whatever it
+is there inside that namespace we are using it.  And what does it mean by
+namespace.  See all the building things available in this header fight that is
+library are grouped under one name that is D so far using that we have to say
+using namespace name waterboard namespace.  We will learn that and the scores
+will find our topic.  There is a video available is a separate topic so
+everything about domain spaces are discussed and their writing.  STV here is
+better than saying that we are using namespace because we are not using
+everything from the namespace.  We want just sealed.  So writing a steady
+column and see all this backup.  But it is easy for the big notes to just write
+field so I may be using C O many times but on the top I will but I think using
+namespace and here I will write SEO just sealed so that's all it is the first
+program.  Let us quickly look at the things that we have Lun see we have
+learned that every C program will have a main function main function should it
+on integer and as it is done.  So here we should write on it on zero then
+inside the slower backers.  That is body whatever you want you can write on
+here.  So in my program I am just displaying it so far that CO2 is an object
+that is already available.  I'm using it for printing something on the screen.
+The c o this present in the head of file so I should include the header to
+fight and thus identified as having this namespace so I should also use that
+namespace just including the header to find is not sufficient.  You have to use
+that namespace inside that one.  If you don't want to use it then you can write
+on STV scope resolution here.  Then the next you I will show you some simple
+programs of C++.

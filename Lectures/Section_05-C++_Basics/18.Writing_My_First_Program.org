@@ -1,0 +1,240 @@
+# -*- mode:org; fill-column:79; -*-
+
+* Writing My First Program
+:PROPERTIES:
+:Section:  5
+:Section-Name: C++ Basics
+:Length:   13:14
+:END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_05-C++_Basics/18.Writing_My_First_Program.mp4,
+Lecture 18.Writing My First Program}
+@end ifhtml
+#+end_export
+
+In the previous video we have already learned the skeleton of a C++ program.
+Now here in this video we learn how to write a program.  So we learn the steps
+for writing basic programs like writing a lot of programs we're following these
+steps.  So what are the steps.  Let us learn.  See every program will have
+three elements.
+
+
+#+CINDEX:steps, writing a program
+{{{heading(Three Steps for Writing a Program)}}}
+- Input
+- Process
+- Output
+
+
+One is it will take some input.  Then it will process them.  It will give the
+output for what is this.  See some will.  I am a program.  I know how to add
+two numbers and you are a user of a program.  Imagine this right.  Always you
+have to keep the scenario in your mind.  Now you want to use the program.  You
+want me to add two numbers.  Then I should know two numbers.  First of all you
+give two numbers.  Then I realized then that I will give you the output.
+That's it.  So from my side if you'll see I'm taking input then processing and
+giving the output.  Now let us take another example.  Suppose I'm a program for
+finding the 80 offer tandem and you're the user you want me to find the 80 for
+feedback.  I should know Linton.  So let us see how I should work.  First of
+all I should ask you what is the land and what is a bread.  You really give me
+land and bread.  I would take and multiply them out.  Whatever the formulas I'm
+in process and I to get the result.  Then I will give you the output API is so
+and so.  So you are a user.  I am the program so now then you are thinking of
+writing a program.  Keep yourself at a place of program and other people who
+are going to use their users.  So start on the side of a program and imagine.
+So now let us see how we can follow these steps for writing a simple program
+for adding two numbers.
+
+** Flowchart
+#+CINDEX:flowchart
+So first of all I will draw a flowchart for this one then I will take our
+algorithm using civil code.  Then I will write down c++ program for adding to
+numbers.  So let us also check.  So here I will draw a flowchart for adding to
+a number.  So what are the things we have to do.  Let us learn see first of on
+a starting point of a flow chart that is stuck.  Then our program should take 2
+numbers as input.  So for input and output values of pilot program.  So let us
+draw on a loop around.  So the next thing is take input.  So for that is better
+giving a message.  So printing a message.  I will say print Enter two numbers
+like when they give the example.  I have told you that first of all I should
+take two numbers from you.  So enter two numbers.  I should tell you.  Enter
+two numbers.  Then you will give me numbers so I should read number see.  I'm a
+program like so read I will read these numbers to numbers whatever must you
+have given.  I will give names to them.  So these are quite nice variables so I
+will take them in a and b.  Now first number is in a second number you have
+given me is and B.  Now I have two numbers I can add them so I can process so
+process time.  Let's use for the next step is a process.  So I took time to
+misuse.  So I should add a and b and I should store it in some other variables.
+No it isn't c it doesn't C so it mean for any program for taking in port you
+have got this and process you have to write this.  No I have there is a 30 I
+should give her as do you say that some of two numbers this one so so that is
+output so for output again the parallelogram survival type I look around and
+give a output here.  So here I will see print edition is in goods.  This is in
+goods because it's a message then comma C so it will be saying addition s then
+the result whatever that is and that is they didn't see then next this end of
+this procedure.  So this is strong.  So far that all is the shape the use of
+ellipses the shape feels so start and take input process give output an end.
+This is how the flow chart for adding two numbers not same thing.
+
+** Pseudocode
+#+CINDEX:pseudocode
+
+#+begin_example
+Algorithm Add
+Begin
+  Print "Enter 2 numbers"
+  Read a, b
+  c <- a + b
+  Print "Addition is ", c
+End
+#+end_example
+
+I will prioritize and I'll go to them using pseudocode.  So what is pseudocode.
+The same thing I write on this is pseudocode.  It's not a C language code the
+same pseudocode item.  So let us write an algorithm for adding two numbers.
+Now here I will say begin the algorithm begin C already I have explained you
+that you can write.  Begin note you can write on the floor or backward.  That
+is your choice.  So I am writing begin here.  Now what is the first thing it
+has to do.  It should print and send it to number so print into two numbers.
+Okay then this is the message I'm giving then writing semicolon or not.  There
+is a chance because this you look good.  It's not strict.  Then I should read
+two numbers in two variables.  That is a and b.  This is or no.  Next a step is
+this one processing.  So C is assigned that a plus b.  So I'm writing this
+assignment.  Don't take it as equal to otherwise write Atlantis next step is
+printing additional number so-and-so so in addition as you see so does that
+happen.  And does the end of it go to them.  So those are steps I have combined
+them and return them as Al Gore to them.  This is the beginning.  Everything
+looks simple right as we go on writing mode program.  So this may be becoming
+like Linda or complex so slowly we'll move quick.
+
+** C++ Program
+
+#+begin_src C++ :results output
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    int a,b,c; /* variable declarations */
+
+    cout << "Enter two numbers:" << endl;
+    cin >> a >> b;
+    c = a + b; /* assignment statement */
+    cout << "Addition is: " << c << endl;
+
+    /* implicit return 0 in C++ program */
+}
+#+end_src
+
+#+RESULTS:
+: Enter two numbers:
+: Addition is: 0
+
+No.  Next I have to write on the C++ program for adding prune them.  So here I
+will write don't c++ program so lit up right.  First of all I will write on the
+skeleton of C++ program.  So for that I have to write hash include your stream
+right.  So this is the thing that we have already learned.  So this is r your
+stream that I have to write using namespace.  Right.  So whenever I'm using
+scene I see all this would be useful.  STV So using namespace.  No main
+function in mean and starting off a main function.  Now what I have to do so
+here I have a flowchart here.  I have a algorithm these two things I have to
+convert them.  So let us read it.  So what are the things that I have to do.
+So from there one of them will convert it into a C++ program.  C begin inside
+this Foster's print.  Enter two numbers how to print anything on the monitor.
+C Oh we know back so c out and two numbers.  So here I will write down C out
+and two numbers this one and this message on the screen.  The next thing I read
+a B.  So from there a program will read some numbers or data from the keyboard.
+So for that we have object called C in and that is present in this study.  The
+C open seen then in this study.  So C in right.  So C in the van C for this I
+have to use a double greater than symbol for eating anything.  Now when you
+have to read it in variables A as well as B don't give comma again give this a
+greater than symbols and write under this variable B so seen a B.  Now the
+important thing seeing C++ you cannot directly use the variables unless you
+have declared them so we should declare them.  So declaring minutes and before
+using them here I should declare.  So how many variables I have.  ABC three
+variable today a b c three variables and all these variables will have a data
+type.  Now what does it mean by data type.  We have it the next video right.
+So we will be learning it.  So we have to mention the data statements what type
+of value you are storing in them.  We had a string integer type.  So numbers on
+Libya storing.  So that's why this is in beta so this is a method of declaring
+them.  C This declaration was not there in Al Gore to them.  So it's not strict
+it's not stick because that is not C++.  So you can write as you like.  This is
+English like not here.  You have to write everything perfectly.  If you miss
+anything compiler will not compile your program so you should write on the
+things that are understandable by compiler right.  So write everything
+properly.  So this should be terminated by semicolon.  So here we have each
+other next step.  This is over.  This is over.  And this one.  C assign a plus
+b so a plus B.A. want to do okay additions will be done then it should be
+stored.  So it should be stored and C so I don't like this C equal to A plus B
+but don't read it as equal to read it as a sign.  This means the same thing.
+Add this to or as it is a stored in C so I'd distort it as it is a story in C
+that's it.  Now the last thing remaining we have finished this one.  Have to be
+No.  So C sealed then c out what is the message we want to print addition is
+then see.  I I don't hear addition as it goes.  And then right again the bless
+them and then say C..  Right.  So that's all.  And so here inside the main
+function we must write down a rate on zero.  That is always you have to write
+because we haven't done in here.  So that's.  This is a program in C++ for
+adding two numbers.
+
+** Program to Read and Print a Name
+
+#+findex: getline
+#+begin_src C++ :results output
+  #include <iostream>
+  using namespace std;
+
+  int main()
+  {
+    string name;
+
+    cout << "May I know your name?" << endl;
+    getline(cin, name); /* reads an entire line, not just one word */
+    cout << "Welcome Mr. or Ms. " << name << endl;
+
+  }
+#+end_src
+
+#+RESULTS:
+: May I know your name?
+: Welcome Mr. or Ms.
+
+Now will continue and I will show you how to read a name in C++ and give a
+message.  Its name means a string by string set of characters.  I will show you
+a simple program.  Let us learn it.  Now let us write a program or take the
+name of a user and display a welcome message with the name right.  So let us
+assume that I am a program for what I should do I should ask you man or your
+name.  Then you heard the name I should take the name then I should give a
+message.  I should tell you that Hello Mr or Miss whatever it is underneath.
+So let us write on this.  So for this I have a skeleton already available here.
+Now let us write on the steps so I'm not showing flowchart all these things.
+This is a simple one for frosting I have to give a message to you.  So what
+does that mean.  Or your name so far displaying a message on the screen.  I
+should UCL so see out my name and your name.  So this will appear on the
+screen.  Now you are the user of the program.  When you see this you trying to
+write your name from the keyboard.  Right.  So I know you will hit enter so
+that I should read.  So I should read it by using C in right.  This extraction
+operator of this extraction operator and here I should read your name.  So what
+is this.  This is a variable name as of any ability which you type it should
+read a word that is name so it should be string type.  So in C++ you should
+declare the variables before using them.  Right.  So I should declare it.  So
+which type I should declare it as a string string and variable name is name.
+So what is it is a string.  Does the data type.  We are going to learn about
+better type software.  So this is the name of a variable.  So it will read the
+name from the keyboard.  Next I should give a message.  Welcome Mr. So-and-so
+here I should give a message so far that I should write C out.  Welcome Mr. or
+Miss.  I'm followed by this.  Your name.  So for this again right on this
+one C. This is inclusion.  The bill includes not the variable name should not
+be in the bill cause it should be identically given.  So it will display a
+message welcome Mr. or Miss whatever it is then name.  So this will give a
+message that song end of the program.  So does a simple program for taking name
+of a user and showing off the message.  Not one problem in this one.  If your
+name is having more than one board then it can not read all the words.  It will
+be just one board.  It will not read second or third word.  Suppose your name
+is or ever ECOMOG so it will just read the right.  So if your name is on will
+go on.  Then it will just read and then learn how to make it read everything.
+So instead of seeing we have a function call get a line inside this I should
+write on scene under variable name.  This name.  This will read all the words
+until you hit enter.  So this only perfect for taking the names of people that
+may be off more than one word.  So this is back.  So that's all in the next
+media.  We will have the day more of these programs.

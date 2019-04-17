@@ -1,7 +1,7 @@
 # -*- mode:org; fill-column:79; -*-
 
 #+TITLE:Learn C++ Programming Beginner to Advanced---Deep Dive in C++
-#+DATE:<2019-04-16 Tue 10:45>
+#+DATE:<2019-04-17 Wed 12:00>
 
 * Section---Introduction
 :PROPERTIES:
@@ -52,6 +52,21 @@
 #+include: ./Lectures/Section_04-Compiler_and_IDE_Setup/14.Setup_CodeBlocks.org
 #+include: ./Lectures/Section_04-Compiler_and_IDE_Setup/15.Setup_Dev-C++.org
 #+include: ./Lectures/Section_04-Compiler_and_IDE_Setup/16.Setup_xcode.org
+
+* Section---C++ Basics
+:PROPERTIES:
+:Length:   3 hours 5 minutes
+:Section:  5
+:Section-Name: C++ Basics
+:Lectures: 18
+:Demos:    7
+:Exercises: 9
+:Quizzes:  1
+:END:
+[[file:Lectures/Section_05-C++_Basics/17.Skeleton_of_C++_Program.org][Skeleton of a C++ Program]]
+
+#+include: ./Lectures/Section_05-C++_Basics/17.Skeleton_of_C++_Program.org
+#+include: ./Lectures/Section_05-C++_Basics/18.Writing_My_First_Program.org
 
 * The Course
 :PROPERTIES:
@@ -140,9 +155,16 @@ university students in their academics.
 :END:
 
 * Program Index
-:PROPERTIES:
-:index:    pg
-:END:
+  :PROPERTIES:
+  :index:    pg
+  :unnumbered: t
+  :END:
+
+* Function Index
+  :PROPERTIES:
+  :unnumbered: t
+  :index:    fn
+  :END:
 
 * Export Setup                                                     :noexport:
 #+author:Abdul Bari
@@ -157,3 +179,7 @@ university students in their academics.
 #+texinfo_dir_category:Programming
 #+texinfo_dir_title:Deep Dive in C++
 #+texinfo_dir_desc:Learn C++ Beginner to Advanced
+#+macro: code @@texinfo:@code{@@$1@@texinfo:}@@
+#+macro: dfn @@texinfo:@dfn{@@$1@@texinfo:}@@
+#+macro: heading @@texinfo:@heading@@ $1
+#+macro: subheading @@texinfo:@subheading@@ $1

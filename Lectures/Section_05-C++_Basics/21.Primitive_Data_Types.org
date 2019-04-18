@@ -1,0 +1,187 @@
+# -*- mode:org; fill-column:79; -*-
+* Primitive Data Types
+:PROPERTIES:
+:Length:   15:00
+:Section:  5
+:Section-Name: C++ Basics
+:END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_05-C++_Basics/21.Primitive_Data_Types.mp4,
+Lecture 21.Primitive Data Types}
+@end ifhtml
+#+end_export
+
+Let us learn about the data types available in C++ language other than the
+previous video I have given you the reason or the idea why we need to get our
+types every language supported our type.  We don't get our time.  There is no
+use of writing the programs so let us learn what other data are for then.  Also
+we will learn how to use them means how to use them by declaring the variables.
+So let us get going what have you of all the data types available in C++ C.  I
+have a chart here that is showing the data types then in this they can be
+categorized in book 3.  Nominally you have to understand this one.  This
+portion data types are called primitive guitar types but amendments in house
+living like the one which are living inside C++ so that identically provided by
+compiler.  So primitive guitar types are basic guitar types of C++.  They are
+of three types that is categorization again integral integrator type integral
+which means there is no decimal point.  Boolean means drawing false marks
+floating point but the decimal decimal is also called Floating Point.  So this
+is the broader categorization that are integral we have in and God it.
+Character is integral.  I would agree.  What does it mean integer and character
+comes under integral means that they will not have a decimal point.  Yes that
+floating point the right to float under will.  They are similar literally just
+some defensive sounding of organic.  So before going into details of this let
+us have a look at these also user defined data types whatever level.  First one
+is in them enumeration that you will find in this section only right.  And
+structure and union.  These are our number one and classes.  That's what the
+C++ is for C++ supports optical edition so actual C++ concepts and the
+programming starts from classes.  We will learn a lot of things are there to
+learn I've ordered them at last.  At this point there's other references we
+have these as a separate topics in some sections so you can check that these
+are the detailed Lindy topics so there's all the things are bigger topics.  We
+have a section for each.  Not in this video.  You have to learn these things
+the data types and remember not only that is very important right.  Because
+every time we'll be using them.  So you should be able to recall what does it
+mean.  So here in something you should learn them.  Let us see what other data.
+So far those data types we have to know a few things and among these things you
+must remember fuel few.  I'll highlight one of the things that you should
+remember.  Let us look at the table.  They got absorbed in digital flowed w
+character and boolean and these are they say this site assignments how many
+bytes of memory that takes like in the previous year do I said that if you take
+only one byte then we can store a small size number.  If you want us to a
+bigger number then what.  So that's what depending on the number that you can
+store.  That's what every data type have some number of bytes so disapproval
+alone in detail.  That is to buy the dates and the stakes for whites and the
+sticky bite.  And this take one bite.  It is undefined.  It can be one byte or
+less knowing each a data type depending on the capacity it's its size.  There
+is a possible range of values that you can store so that the values are also
+given so you can note on these one you can no done this and all of this.  You
+must remember the range of values for this one undisciplined integer that is
+read out minus 3 2 7 6 8 2.  Table 7 6 7 negative positive so it supports both
+positive and negative numbers then for character minus 128 to 127.  This is
+sure to remember all of this next about slowed down the bullet if you can
+remember it's relevant but either way it's not a problem for slow time is read
+out minus three point four and pretend to put off minus 38 and positive and
+that's three point fourteen pretending to breath studied.  Now double is minus
+one point seven in goal three not eight under this they don't need one point
+seven.  So how do remember the Miss C double is one point seven numbers one
+point seven.  So if you can remember this is sufficient.  Now flip for float
+double that at one point seven it'll become three point four surface three
+point four.  Right.  Hope you remember the values I am showing you how to
+remember the value then this is steady 8.  So this is 3 9 8.  So this way you
+can remember this one if you're only 1.  But remember now let us talk about
+integer C in digital media.  Either to buy it or for whites depending on the
+version of compiler you are using most of the compilers.  Now take for whites
+only if you are using data bool see dribble see if you did and you are using it
+then it extra whites terrible he takes two whites because it opens in DOS box
+it goes in good dos shell and run there so that it takes to whites otherwise
+integer takes for the whites.  But in my discussion every time I really was
+seeing in digital bytes because when I have to show some calculation and Sol so
+two bytes will be easy for me for exponential.  Otherwise sticking a bigger
+size data will be difficult for explanation.  So I will assume in digital extra
+bytes every day.  Now let us understand how this syndicate is getting this
+range and this ranges for two bytes not for 40 bytes.  Let us see how it is
+taking minus 3 2 7 6 8 2 people 7 6 7.  Let us look at this.  It is taking two
+bytes so two bytes means the total how many bits.  Sixteen bits.  Scientists
+draw this first.  So here they have two bytes.  This is fast by the second
+by 2016.  Brits are there sixteen bits together two bytes together works as a
+single variable in their data that is integer so hold the sixteen bits that use
+one of the Big Ten.  This is called Ask most significant bit and this is called
+answer the least significant bit.  So this bit is reserved for assignment but
+this one means the number is negative.  If that is Zimmerman's number is
+positive then how many bits are remaining for writing a number.  Only 15 bits 0
+to 14 so far 15 is 3 2 7 6 8.  This is how as a 3 2 7 6 8 and that is up to 3 2
+7 6 7.  So that's why the number is the store only in 15 minutes it has to
+support something also positive and then get it.  Also that is the reason one
+with this result.  The remaining bits are used for storing a number.  So this
+is common for all the languages not just C++ it is true for C also and this
+even is true for Java also.  It happened similarly in the Java also F2
+Whiteside used anywhere so two bytes if a number is restored and good works.
+This is the largest number that can store my right under age 0 3 2 7 6 7.  If I
+take on the range of this number it will not be starting from 1.  I think will
+be starting from zero so it is 0 2 3 2 7 6 7.  That's why it is 7 no next.
+This has to be in the positive also negative also.  So let me write on this so
+0 2 3 2 7 6 or 7.  This is positive side than 0 2 3 2 7 6 or 7.  It is a
+negative side so this is a positive side.  This is negative side in this.  This
+is negative minus a negative zero will also be that negative zero is not a
+number.  So that's why that negative zero is taken RS minus 3 2 7 6 8.  It is
+assumed as minus 2 equals 7 6 8.  It happens automatically and by the no form
+if the number is negative and largest then in value minus 3 2 7 6 8 2 3 2 7
+6 7.  That is the reason we have won them one extra year because that minus
+zero has take taken at minus 3 2 7 6 8.  That salt it is getting this thing
+now.  This is sufficient for understanding of what integer.  No let us come to
+character.  How come.  Character is taking numbers minus 1 being D.A. 127 and
+it is taking one bite.  I'll explain you ordered so character takes one bite
+saying one bite.  One benefit is of that sign but not many how many but Sada 0
+2 6 total 7 bedside two plus 7 is 128 120 admins 0 2 127 now positive as well
+as negative so negative 127 negative 0 will also be dead.  That is that is a
+minus one being the 8 to 127.  The range of character.  Let us coming.  Good
+point.  How come a character is a no see.  Computer walks on by meeting on what
+system that is zeros and ones so they understand all these zeros and ones
+nothing else.  Right.  Then how to represent the character.  Character should
+also be represented and zeros and ones and those zeros and ones.  We understand
+them as decimal and what system we understand them as numbers.  Then how do we
+present characters so far.  Character codes are given character codes are to
+give up.  So let us see what are courts.  The codes are called as ASCII golds
+or ASIC key codes American standard code for information interchange.  So for
+every alphabet or every letter every letter in the English language as well as
+the special symbols.  There is a God given.  So what are those scores.  Capital
+is represented as sixty five them would be and then B is represented as sixty
+six so a number is used forty per percent in character.  Now if you'll see the
+system was sixty five if you said no no.  That is a character means it is a.
+So only on the screen the printing will be done as a but inside the memory it
+is sixty five.  It isn't by any form that all the codes are used forty
+presenting characters.  CAVUTO was that have been to be ninety and small is
+ninety seven and small b is ninety eight and goes on small as it is one thirty
+two and zero letter Z on the keyboard.  If you see that is also a symbol of
+character what have you treat it as a number of used them as number but
+everything on the keyboard is a character so zero is also character so far that
+symbol is evil.  This is forty eight and one is forty nine and goes on last
+digit nine is fifty seven.  These are the courts now one important thing you
+must remember these goals you must remember this is very important.  You have
+to remember this range.  You have to remember this range.  And you should
+remember these schools.  This is very important.  All right then for other
+special symbols also codes are available so you can learn about them.  You
+search in Google you will find out all the list of characters and their codes
+available.  Search for ASCII courts no legal motorboat data types.  I would
+talk about modifiers modifiers.  Let us discuss about more facts.  There are
+two modifiers using these modifiers.  You can modify these data types as per
+your requirement.  So quickly let us look at this.  There are two identifiers.
+One is unsigned.  And another one is long.  So you can see unsigned integer.
+Now this integer which is ticking bought negative as well as positive nine
+would take only positive.  So what are the range 0 2 6 5 5 3 5.  The syllable
+that each double this one double this one.  Targeted because then you double it
+at a 65 target.  So 6 5 5 3 5 is the range 0 2 6 5 5 3 5 means assigned but
+it's not there all 16 bits are used for storing in number integer become
+unsigned.  So if you don't have any negative numbers and you want to get a
+bigger range you have a larger value then you can go for this.  Then you can
+also see unsigned can.  So when you say unsigned character this range you will
+get double that is you can store the number 0 255 she can store the numbers
+also nice supporting a character you have your numbers are very small and stuff
+storing alphabets you can store a number also in a character.  So its range
+becomes this so unsigned can be used or leave it in digital character you
+cannot use it with any other.  Next one is long long you can use it with
+integer.  So if indeed it is taking two bytes then long it will take four bites
+and suppose it is taking 40 bytes long it will take eight bytes depending on
+the compiler already a body about integer along can also be taken.  DOUBAN long
+double takes 10 bytes sea floor was four decimal number and if this range is
+not sufficient does a small number minus three eight.  That is five plus three.
+A small amount.  If you want a larger number than you can take double.  So it
+is minus three not eight years.  Be good one.  So this is a very small value
+that is very big value 3 not a bigger number.  If you want is still larger then
+you can take long double life long slow slow meaning because long floated such
+as a double then long double you can take.  So it will not be 16 but it will be
+10 right.  So that's all the would modifiers modifiers you can use them but
+it's limited data types you cannot use unsigned with everything and you can
+only use along with everything you can all have long can.  So that's all about
+the data types see the end of the score so you will find one section called
+miscellaneous there.  I have discussed little more about the data types so if
+you're not a beginner then I suggest you watch that or if you're a beginner
+after completing the course you watch stacked section in that section some
+topics are discussed in more detail.  So for the beginners it will be very
+difficult for them to grasp it.  So I have kept them as missile this topic so I
+suggest you watch those videos.  If you want more details about the data types
+so there are videos for other topics also admitted in this section.  Now next
+we will see variables what are your tables.  Don't miss this video.  So in the
+next move to ever discuss about video.

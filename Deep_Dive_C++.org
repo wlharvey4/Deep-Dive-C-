@@ -1,7 +1,7 @@
 # -*- mode:org; fill-column:79; -*-
 
 #+TITLE:Learn C++ Programming Beginner to Advanced---Deep Dive in C++
-#+DATE:<2019-04-17 Wed 12:00>
+#+DATE:<2019-04-18 Thu 11:24>
 
 * Section---Introduction
 :PROPERTIES:
@@ -67,6 +67,8 @@
 
 #+include: ./Lectures/Section_05-C++_Basics/17.Skeleton_of_C++_Program.org
 #+include: ./Lectures/Section_05-C++_Basics/18.Writing_My_First_Program.org
+#+include: ./Lectures/Section_05-C++_Basics/19.Demo---First_Program.org
+#+include: ./Lectures/Section_05-C++_Basics/20.Why_Data_Types.org
 
 * The Course
 :PROPERTIES:

@@ -1,0 +1,61 @@
+# -*- mode:org; fill-column:79; -*-
+* Demo---First Program
+:PROPERTIES:
+:Section:  5
+:Section-Name: C++ Basics
+:Length:   5:46
+:END:
+
+#+begin_export texinfo
+@ifhtml
+@url{../Lectures/Section_05-C++_Basics/19.Demo---First_program.mp4,
+Lecture 19.Demo---First_program.org}
+@end ifhtml
+#+end_export
+
+Let us write our first program in C++ Here I'll start Estcourt create a new
+project and exclude and select this option that does come on line tool.  Then
+you have to mention some project name that just fosters the project name and
+the line selected is C++.  There are other options also available to select C++
+then next.  So there is supposed to clear that so you can set the party
+wherever you want to create your project secret.  Here are the project files so
+click on me and R.S.V.P. you can see that readymade code is given.  So it has
+already generated a piece of code that is executable code.  Here are a few
+comments how to remove them as they move these panels here.  See this come on
+line arguments.  These are optional in C++.  I would just remove these come on
+line arguments in the study about these After some time.  So here is readily
+available the hello world program I run this.  Let us see what you get.  Here's
+an output window.  Yeah.  Hello world.  The output is given here.  He had a
+steady scope resolution is used for accessing C out.  So instead of this we can
+also mention using namespace using namespace yesterday.  No I don't have to use
+a study for using C out object lessons and check once again that's it.  So
+there's a viking the same program I just modified for adding two numbers.  I'll
+remove these lines and I will write on the code here for adding two numbers.
+I'll declare a few variables in digit A B and C..  So you can see there's a
+problem here.  If there is an error in the statements she would enter two
+numbers then seen a and B then C assign a plus b c some as and give your space
+and see.  So there's a program for picking two numbers from keyboard and adding
+them and displaying the result.  So these two lines are for taking input from
+the user.  These two lines are interactive as it is giving a message to the
+user informing him going to numbers then adding two numbers and finding some
+and displaying some here.  Let's run this.  Now here is a message and the two
+numbers alone the two numbers 10 and 30.  Now here the sum is 40.  I should get
+them here.  So that last message should come in the next line and then let me
+answer.  Add it to numbers 10 and 30.  So now this program ended with the exit
+code zero that is coming in the next line.  So some is 40.  That's it.  So let
+me modify the same program and make it as a program for taking the user and the
+man displaying a welcome message.  So a string ever built in class available in
+C++ library that is a steady stream and we can access in the name space.  The
+study here will give a message see how me I know you name then seen in name.
+So SETI is a variable name.  Then Seow.  Hello space here.  So that space is
+there in between Helu and name of a user out on the program.  May I know your
+name.  Let's say the name is John.  So hello John King.  I run it once more.
+I'll give the name psycho Meyer.  Let us see what happens.  As giving just say
+he's not giving the other name because the name is having two words here.  It's
+really only one word.  If you want to read all the words and Bert in a string
+then the right material is there is a function available called Get line get
+Langeais X input stream that is seen and mixed with string variable string
+object.  Now let us read it using getline do the amateur for an entire line
+from the keyboard.  Miyan know your name so Sai Kumar Nai or a full name psycho
+on that it.  So this is of you can access the strings of any of the required is
+a brilliant object available in C++ and is very useful object.

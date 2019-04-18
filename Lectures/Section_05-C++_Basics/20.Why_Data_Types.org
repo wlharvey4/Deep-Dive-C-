@@ -13,6 +13,8 @@ Lecture 20.Why Data Types}
 @end ifhtml
 #+end_export
 
+{{{heading(Computer Memory)}}}
+
 In this video we will learn about data types so we will understand why we need
 to date our pets so liquid might have already a set dog a program as a set of
 two ingredients.  That is data and instruction or operations that are performed
@@ -23,77 +25,104 @@ Then this will contain instructions that we have already seen in previous one
 of the videos.  Now we are writing the program so that they perform operations
 on data and get some results.  That is computational process.  We want our work
 to be done by machines by executing programs.  So let us understand how we work
-in daily life.  So in daily life we use that data in various places like for
-example the amount of build amount and that is the total amount or the price of
-some item or your whole number your marks.  You are doing no sitting name your
-name.  Various things are that is nothing but data right.  So this data how we
-use it in our daily life and what computations we perform.  Let us understand
-this fast.  So I will categorize the data we use two types of data in our daily
-life.  One is numeric data that is set of numbers or figures.  Then we use
-character type data right.  Character types are not words or sentences or names
-names of places.  That is in the form of character.  You can also call this as
-alphabetic type of data.  So data is either numeric or alphabetic or you can
-say character and sometime views mix often numeric and alphabetic like if I'm
-writing a door number the symbols 125 hyphen E Does that number.  And this is
-having on a number as well as alphabet.  So let us consider this also as
-alphabetical and do it as having numbers but alphabet side.  Let us call it as
-alphabetic otherwise you can say undefined find numeric.  But basically it is
-like a character only limit.  Now I would pick up these two one by one.  I will
-explain more detail about this.  So let us pick up numeric if I have a number
-that is the prize or for some item.  Let us see it is two dollars or a real
-number of a student.  That is twenty five is the rule number or the bill amount
-is fifteen dollars thirty five cents fifteen point three five.  So if you
-observe this is not having the symbol and this is having decimal.  So at this I
-can say that in daily life we use two type of numbers.  One is that a decimal
-Vic told a decimal.  We don't usually differentiate then we say it's a number
-only but when it comes to computers remember that number has to be represented
-in binary form right.  It has to be present in binary form.  Then how do you
-represent a decimal.  So it's a problem.  So it has to be handled specially.
-So we our decimal numbers are different and the victor decimal numbers are
-different.  So all electronic devices like computer or your mobile phone or
-calculator anything if you take all electronic devices with numbers are used
-between these two numbers differently because there is an extra effort required
-for presenting decimal point number so I wouldn't categorize this number as
-integer that is without a decimal.  And next is floating point this is the
-decimal floating point As Decimal floating appointments decimal locally right.
-So the value of representing the symbol number as approach is called Floating
-Point.  So they should understand later.  So now I have to type off numbers
-integer and floating point.  This is all not just C++ all the programming
-languages present day programming languages like C C++ Java C sharp Python
-anything you take they differentiate the data like this and floating point as a
-standard all machine follow the same method for representing decimal point the
-next coming onto the site that is characters.  So here if I write a name that
-is Mark or until these are the names or name of a place daily rate or any word
-program is a word.  So it may be a name of a person it may be a name of a
-please or it may be a.  Any word from dictionary.  These are nothing but a
-character.  So actually character is just a single letter a single letter is a
-character right.  But together they are forming it as a string.  So we call
-this as string in our program.  So string is nothing but a collection of
-alphabets are characters that are forming a single entity that is a string so
-string may be a name of a person not a word or any word from missionary or a
-song.  So this also represents that string.  So if I talk about programming
-languages they support character type also and collection of characters in that
-in a string.  So individual character also and the collection of characters
-both are supported by language.  So in C++ both are supported by one thing.  As
-I said back these numbers has properties that are represented in binary than
-waterboard the characters.  They are all 20 president in binary binary means
-it's a numeric then these are characters.  So yes there are some chords a use
-for preventing characters that we learn when we talk about characters.  So this
-is about different data types the using daily life and I have categorized these
-daily user data type in the database that we use in our programs.  Now let us
-come to the next point see this type of data has to be stored in the memory so
-that program can work on that.  So let us discuss up on this point.  So I will
-remove this.  I never discussed when it comes to memory.  Memory is a defined
-are represented in Dom SOF bytes so one byte if I take one bite is nothing but
-collection of 8 bits.  So these are 8 bits.  So it's a collection of 8 bits and
-they both stood in the form of zeros and ones in this one.  So whatever the
-form of be.  Now display in any form we say it's a data.  Now the question is
-if you want to store in digitized data.  Shall we take just one might say in
-one bite.  What is the maximum number that we can store.  That is minimum is
-zero.  And the man Zimmerman's 255 so not just not much 255 I cannot have
-bigger figures.  Yes.  Then shall we take more than one bites.  Yes.  Shall we
-take two bites out for once.  So that's it.  So this super long in the next
-video.  That is integer.  How many bytes it would take.  And what is the
+in daily life.
+
+{{{heading(Data in Daily Life)}}}
+
+So in daily life we use that data in various places like for example the amount
+of build amount and that is the total amount or the price of some item or your
+whole number your marks.  You are doing no sitting name your name.  Various
+things are that is nothing but data right.  So this data how we use it in our
+daily life and what computations we perform.  Let us understand this fast.
+
+{{{heading(Categories of Data Types in Daily Life)}}}
+
+So I will categorize the data we use two types of data in our daily life.  One
+is numeric data that is set of numbers or figures.  Then we use character type
+data right.  Character types are not words or sentences or names names of
+places.  That is in the form of character.  You can also call this as
+alphabetic type of data.
+
+So data is either numeric or alphabetic or you can say character and sometime
+views mix often numeric and alphabetic like if I'm writing a door number the
+symbols 125 hyphen E Does that number.  And this is having on a number as well
+as alphabet.  So let us consider this also as alphabetical and do it as having
+numbers but alphabet side.  Let us call it as alphabetic otherwise you can say
+undefined find numeric.  But basically it is like a character only limit.
+
+{{{heading(Numeric Data Types)}}}
+
+Now I would pick up these two one by one.  I will explain more detail about
+this.  So let us pick up numeric if I have a number that is the prize or for
+some item.  Let us see it is two dollars or a real number of a student.  That
+is twenty five is the rule number or the bill amount is fifteen dollars thirty
+five cents fifteen point three five.  So if you observe this is not having the
+symbol and this is having decimal.
+
+{{{subheading(Differentiating Between Numeric Datatypes)}}}
+
+So at this I can say that in daily life we use two type of numbers.  One is
+that a decimal Vic told a decimal.  We don't usually differentiate then we say
+it's a number only but when it comes to computers remember that number has to
+be represented in binary form right.  It has to be present in binary form.
+Then how do you represent a decimal.  So it's a problem.  So it has to be
+handled specially.  So we our decimal numbers are different and the victor
+decimal numbers are different.  So all electronic devices like computer or your
+mobile phone or calculator anything if you take all electronic devices with
+numbers are used between these two numbers differently because there is an
+extra effort required for presenting decimal point number.
+
+so I wouldn't categorize this number as integer that is without a decimal.  And
+next is floating point this is the decimal floating point As Decimal floating
+appointments decimal locally right.  So the value of representing the symbol
+number as approach is called Floating Point.  So they should understand later.
+So now I have to type off numbers integer and floating point.
+
+This is all not just C++ all the programming languages present day programming
+languages like C C++ Java C sharp Python anything you take they differentiate
+the data like this and floating point as a standard all machine follow the same
+method for representing decimal point the next coming onto the site that is
+characters.
+
+{{{heading(String Data Type)}}}
+
+So here if I write a name that is Mark or until these are the names or name of
+a place daily rate or any word program is a word.  So it may be a name of a
+person it may be a name of a please or it may be a.  Any word from dictionary.
+These are nothing but a character.  So actually character is just a single
+letter a single letter is a character right.  But together they are forming it
+as a string.  So we call this as string in our program.  So string is nothing
+but a collection of alphabets are characters that are forming a single entity
+that is a string so string may be a name of a person not a word or any word
+from missionary or a song.  So this also represents that string.  So if I talk
+about programming languages they support character type also and collection of
+characters in that in a string.  So individual character also and the
+collection of characters both are supported by language.  So in C++ both are
+supported by.
+
+one thing.  As I said back these numbers has properties that are represented in
+binary than waterboard the characters.  They are all 20 president in binary
+binary means it's a numeric then these are characters.  So yes there are some
+chords a use for preventing characters that we learn when we talk about
+characters.  So this is about different data types the using daily life and I
+have categorized these daily user data type in the database that we use in our
+programs.
+
+{{{heading(Storing Data in Memory)}}}
+
+Now let us come to the next point see this type of data has to be stored in the
+memory so that program can work on that.  So let us discuss up on this point.
+So I will remove this.  I never discussed when it comes to memory.  Memory is a
+defined are represented in Dom SOF bytes so one byte if I take one bite is
+nothing but collection of 8 bits.  So these are 8 bits.  So it's a collection
+of 8 bits and they both stood in the form of zeros and ones in this one.  So
+whatever the form of be.  Now display in any form we say it's a data.  Now the
+question is if you want to store in digitized data.  Shall we take just one
+might say in one bite.  What is the maximum number that we can store.  That is
+minimum is zero.  And the man Zimmerman's 255 so not just not much 255 I cannot
+have bigger figures.  Yes.  Then shall we take more than one bites.  Yes.
+Shall we take two bites out for once.  So that's it.  So this super long in the
+next video.  That is integer.  How many bytes it would take.  And what is the
 minimum value.  What is the maximum value it was stored.  These are the type of
 things that we learned in the coming video.  OK.  So I'll give you the detailed
 explanation of all the data data that are available in C++ so the same way with
@@ -102,13 +131,17 @@ Right.  So how many bytes and floor type of data how many votes it will take
 and get it the type of data how many bytes it takes and how it is represented
 in the memory live and learn about this.  So if you have the clear idea of what
 the data is then you can use them properly for storing your data.  So this was
-about size.  Now next important thing about very well I will discuss a little
-bit about video.  So once you learn about the data types in the coming videos
-then later on we will learn how to put a dollar to stored data in the program.
-Suppose they want integer type data.  Okay I will say integer then video store
-data.  So for that we declare a variable and say that I want a b c so I can get
-three variables depending on the number of bytes taken my integer if indeed it
-is taking two bytes then I get to provide for each and if they are digging for
+about size.
+
+{{{heading(Declaring Data Types)}}}
+
+Now next important thing about very well I will discuss a little bit about
+video.  So once you learn about the data types in the coming videos then later
+on we will learn how to put a dollar to stored data in the program.  Suppose
+they want integer type data.  Okay I will say integer then video store data.
+So for that we declare a variable and say that I want a b c so I can get three
+variables depending on the number of bytes taken my integer if indeed it is
+taking two bytes then I get to provide for each and if they are digging for
 debate and will get 44 bytes for each.  I get the variables like this and then
 even use this variable name and then one programs like thing if I then or be
 assigned five then CSI in a plus b we do it like this we performed operations
